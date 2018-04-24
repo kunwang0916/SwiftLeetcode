@@ -17,6 +17,8 @@
 		71365C78208F89EA00AD24A0 /* Easy771Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C77208F89EA00AD24A0 /* Easy771Test.swift */; };
 		71365C7C208F958400AD24A0 /* Medium807.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C7B208F958400AD24A0 /* Medium807.swift */; };
 		71365C7E208F9A8300AD24A0 /* Medium807Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C7D208F9A8300AD24A0 /* Medium807Test.swift */; };
+		71365C81208FA9CB00AD24A0 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C80208FA9CB00AD24A0 /* TreeNode.swift */; };
+		71365C83208FAA1F00AD24A0 /* Medium814.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C82208FAA1F00AD24A0 /* Medium814.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		71365C77208F89EA00AD24A0 /* Easy771Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy771Test.swift; sourceTree = "<group>"; };
 		71365C7B208F958400AD24A0 /* Medium807.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium807.swift; sourceTree = "<group>"; };
 		71365C7D208F9A8300AD24A0 /* Medium807Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium807Test.swift; sourceTree = "<group>"; };
+		71365C80208FA9CB00AD24A0 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		71365C82208FAA1F00AD24A0 /* Medium814.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium814.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +89,7 @@
 		71365C53208F84DD00AD24A0 /* SwiftLeetcode */ = {
 			isa = PBXGroup;
 			children = (
+				71365C7F208FA9AF00AD24A0 /* Models */,
 				71365C74208F856000AD24A0 /* Solutions */,
 				71365C54208F84DD00AD24A0 /* AppDelegate.swift */,
 				71365C56208F84DD00AD24A0 /* ViewController.swift */,
@@ -112,8 +117,17 @@
 			children = (
 				71365C75208F85FA00AD24A0 /* Easy771.swift */,
 				71365C7B208F958400AD24A0 /* Medium807.swift */,
+				71365C82208FAA1F00AD24A0 /* Medium814.swift */,
 			);
 			path = Solutions;
+			sourceTree = "<group>";
+		};
+		71365C7F208FA9AF00AD24A0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				71365C80208FA9CB00AD24A0 /* TreeNode.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,7 +233,9 @@
 			files = (
 				71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */,
 				71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */,
+				71365C83208FAA1F00AD24A0 /* Medium814.swift in Sources */,
 				71365C7C208F958400AD24A0 /* Medium807.swift in Sources */,
+				71365C81208FA9CB00AD24A0 /* TreeNode.swift in Sources */,
 				71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
