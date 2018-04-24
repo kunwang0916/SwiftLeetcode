@@ -5,5 +5,5 @@ The leetcode solutions written in swift.
 
 |Level| Question|Solution Class| 
 |---|---|---|
-|EASY|[#771 jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
-
+|Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
+|Medium|[#807. Max Increase to Keep City Skylinee](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|[Medium807.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium807.swift)|
