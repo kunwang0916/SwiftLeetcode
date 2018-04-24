@@ -9,7 +9,7 @@
 import XCTest
 @testable import SwiftLeetcode
 
-class Easy771Test: SwiftLeetcodeTests {
+class Easy771Test: XCTestCase {
     func testNumJewelsInStones() {
         var j = "aA"
         var s = "aAAbbbb"

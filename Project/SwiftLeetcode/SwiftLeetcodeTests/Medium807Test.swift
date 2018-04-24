@@ -9,7 +9,7 @@
 import XCTest
 @testable import SwiftLeetcode
 
-class Medium807Test: SwiftLeetcodeTests {
+class Medium807Test: XCTestCase {
     func testMaxIncreaseKeepingSkyline() {
         var input = [ [3, 0, 8, 4],
                       [2, 4, 5, 7],

@@ -21,6 +21,10 @@
 		71365C83208FAA1F00AD24A0 /* Medium814.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C82208FAA1F00AD24A0 /* Medium814.swift */; };
 		71365C85208FB35E00AD24A0 /* Medium654.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C84208FB35E00AD24A0 /* Medium654.swift */; };
 		71365C87208FBB6E00AD24A0 /* Medium654Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C86208FBB6E00AD24A0 /* Medium654Test.swift */; };
+		71365C89208FBFB200AD24A0 /* Medium319.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C88208FBFB200AD24A0 /* Medium319.swift */; };
+		71365C8B208FC26600AD24A0 /* Medium319Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C8A208FC26600AD24A0 /* Medium319Test.swift */; };
+		71365C8D208FC76500AD24A0 /* Medium672.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C8C208FC76500AD24A0 /* Medium672.swift */; };
+		71365C8F208FCA4500AD24A0 /* Medium672Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C8E208FCA4500AD24A0 /* Medium672Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +56,10 @@
 		71365C82208FAA1F00AD24A0 /* Medium814.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium814.swift; sourceTree = "<group>"; };
 		71365C84208FB35E00AD24A0 /* Medium654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium654.swift; sourceTree = "<group>"; };
 		71365C86208FBB6E00AD24A0 /* Medium654Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium654Test.swift; sourceTree = "<group>"; };
+		71365C88208FBFB200AD24A0 /* Medium319.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium319.swift; sourceTree = "<group>"; };
+		71365C8A208FC26600AD24A0 /* Medium319Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium319Test.swift; sourceTree = "<group>"; };
+		71365C8C208FC76500AD24A0 /* Medium672.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium672.swift; sourceTree = "<group>"; };
+		71365C8E208FCA4500AD24A0 /* Medium672Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium672Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +121,8 @@
 				71365C77208F89EA00AD24A0 /* Easy771Test.swift */,
 				71365C7D208F9A8300AD24A0 /* Medium807Test.swift */,
 				71365C86208FBB6E00AD24A0 /* Medium654Test.swift */,
+				71365C8A208FC26600AD24A0 /* Medium319Test.swift */,
+				71365C8E208FCA4500AD24A0 /* Medium672Test.swift */,
 			);
 			path = SwiftLeetcodeTests;
 			sourceTree = "<group>";
@@ -124,6 +134,8 @@
 				71365C7B208F958400AD24A0 /* Medium807.swift */,
 				71365C82208FAA1F00AD24A0 /* Medium814.swift */,
 				71365C84208FB35E00AD24A0 /* Medium654.swift */,
+				71365C88208FBFB200AD24A0 /* Medium319.swift */,
+				71365C8C208FC76500AD24A0 /* Medium672.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -237,7 +249,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71365C89208FBFB200AD24A0 /* Medium319.swift in Sources */,
 				71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */,
+				71365C8D208FC76500AD24A0 /* Medium672.swift in Sources */,
 				71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */,
 				71365C83208FAA1F00AD24A0 /* Medium814.swift in Sources */,
 				71365C7C208F958400AD24A0 /* Medium807.swift in Sources */,
@@ -251,10 +265,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71365C8F208FCA4500AD24A0 /* Medium672Test.swift in Sources */,
 				71365C6A208F84DE00AD24A0 /* SwiftLeetcodeTests.swift in Sources */,
 				71365C78208F89EA00AD24A0 /* Easy771Test.swift in Sources */,
 				71365C87208FBB6E00AD24A0 /* Medium654Test.swift in Sources */,
 				71365C7E208F9A8300AD24A0 /* Medium807Test.swift in Sources */,
+				71365C8B208FC26600AD24A0 /* Medium319Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
