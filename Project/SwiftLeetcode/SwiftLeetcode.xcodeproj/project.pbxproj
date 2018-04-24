@@ -15,6 +15,8 @@
 		71365C6A208F84DE00AD24A0 /* SwiftLeetcodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C69208F84DE00AD24A0 /* SwiftLeetcodeTests.swift */; };
 		71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C75208F85FA00AD24A0 /* Easy771.swift */; };
 		71365C78208F89EA00AD24A0 /* Easy771Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C77208F89EA00AD24A0 /* Easy771Test.swift */; };
+		71365C7C208F958400AD24A0 /* Medium807.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C7B208F958400AD24A0 /* Medium807.swift */; };
+		71365C7E208F9A8300AD24A0 /* Medium807Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C7D208F9A8300AD24A0 /* Medium807Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		71365C6B208F84DE00AD24A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71365C75208F85FA00AD24A0 /* Easy771.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy771.swift; sourceTree = "<group>"; };
 		71365C77208F89EA00AD24A0 /* Easy771Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy771Test.swift; sourceTree = "<group>"; };
+		71365C7B208F958400AD24A0 /* Medium807.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium807.swift; sourceTree = "<group>"; };
+		71365C7D208F9A8300AD24A0 /* Medium807Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium807Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,7 @@
 				71365C69208F84DE00AD24A0 /* SwiftLeetcodeTests.swift */,
 				71365C6B208F84DE00AD24A0 /* Info.plist */,
 				71365C77208F89EA00AD24A0 /* Easy771Test.swift */,
+				71365C7D208F9A8300AD24A0 /* Medium807Test.swift */,
 			);
 			path = SwiftLeetcodeTests;
 			sourceTree = "<group>";
@@ -106,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				71365C75208F85FA00AD24A0 /* Easy771.swift */,
+				71365C7B208F958400AD24A0 /* Medium807.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -213,6 +219,7 @@
 			files = (
 				71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */,
 				71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */,
+				71365C7C208F958400AD24A0 /* Medium807.swift in Sources */,
 				71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -223,6 +230,7 @@
 			files = (
 				71365C6A208F84DE00AD24A0 /* SwiftLeetcodeTests.swift in Sources */,
 				71365C78208F89EA00AD24A0 /* Easy771Test.swift in Sources */,
+				71365C7E208F9A8300AD24A0 /* Medium807Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

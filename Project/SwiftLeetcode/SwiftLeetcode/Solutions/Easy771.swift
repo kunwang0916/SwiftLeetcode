@@ -31,6 +31,8 @@
 import UIKit
 
 public class Easy771: NSObject {
+    
+    // time: O(log(J.length) * S.length), space: const
     public class func numJewelsInStones(_ J: String, _ S: String) -> Int {
         var result = 0
         for char in S {
