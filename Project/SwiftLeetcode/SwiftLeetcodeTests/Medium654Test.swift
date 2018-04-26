@@ -11,7 +11,7 @@ import XCTest
 
 class Medium654Test: XCTestCase {
     func testMaxIncreaseKeepingSkyline() {
-        var input = [3,2,1,6,0,5]
+        let input = [3,2,1,6,0,5]
         Medium654.constructMaximumBinaryTree(input)
     }
 }

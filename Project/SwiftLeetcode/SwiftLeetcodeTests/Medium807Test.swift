@@ -11,11 +11,11 @@ import XCTest
 
 class Medium807Test: XCTestCase {
     func testMaxIncreaseKeepingSkyline() {
-        var input = [ [3, 0, 8, 4],
+        let input = [ [3, 0, 8, 4],
                       [2, 4, 5, 7],
                       [9, 2, 6, 3],
                       [0, 3, 1, 0] ]
-        var expected = 35
+        let expected = 35
         XCTAssertEqual(expected, Medium807.maxIncreaseKeepingSkyline(input))
     }
 }
