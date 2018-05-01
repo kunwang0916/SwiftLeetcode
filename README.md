@@ -19,3 +19,4 @@ The leetcode solutions written in swift.
 |Medium|[#672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)|[Medium672.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium672.swift)|
 |Medium|[#807. Max Increase to Keep City Skylinee](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|[Medium807.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium807.swift)|
 |Medium|[#814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Medium814.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium814.swift)|
+|Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|

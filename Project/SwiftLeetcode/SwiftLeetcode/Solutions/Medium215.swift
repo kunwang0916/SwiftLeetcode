@@ -21,6 +21,7 @@
 import UIKit
 
 public class Medium215: NSObject {
+    // time: O(n), space: O(1)
     public class func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
         var from = 0
         var to = nums.count - 1
