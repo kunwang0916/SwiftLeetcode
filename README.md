@@ -10,6 +10,7 @@ The leetcode solutions written in swift.
 |Easy|[#66. Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy66.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy66.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
+|Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|
