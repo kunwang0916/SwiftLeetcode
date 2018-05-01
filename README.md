@@ -8,6 +8,7 @@ The leetcode solutions written in swift.
 |Easy|[#26. Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy26.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy26.swift)|
 |Easy|[#38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Easy38.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy38.swift)|
 |Easy|[#66. Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy66.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy66.swift)|
+|Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
