@@ -13,6 +13,7 @@ The leetcode solutions written in swift.
 |Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
+|Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
 |Medium|[#240. Search a 2D Matrix II]( https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium240.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium240.swift)|
