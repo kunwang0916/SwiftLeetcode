@@ -17,6 +17,7 @@ The leetcode solutions written in swift.
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
 |Medium|[#240. Search a 2D Matrix II]( https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium240.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium240.swift)|
+|Medium|[#300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium300.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium300.swift)|
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
 |Medium|[#560. Subarray Sum Equals K]( https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Medium560.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium560.swift)|
 |Medium|[#654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Medium654.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium654.swift)|
