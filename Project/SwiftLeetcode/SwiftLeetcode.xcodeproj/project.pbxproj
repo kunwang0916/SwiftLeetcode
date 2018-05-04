@@ -53,6 +53,9 @@
 		71365C8F208FCA4500AD24A0 /* Medium672Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C8E208FCA4500AD24A0 /* Medium672Test.swift */; };
 		71365C9120900DB100AD24A0 /* Easy38.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C9020900DB100AD24A0 /* Easy38.swift */; };
 		71365C93209011C100AD24A0 /* Easy38Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C92209011C100AD24A0 /* Easy38Test.swift */; };
+		71F9AAAE209C0BB5008E59F6 /* Medium148.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAAD209C0BB5008E59F6 /* Medium148.swift */; };
+		71F9AAB0209C0BC8008E59F6 /* Medium148Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAAF209C0BC8008E59F6 /* Medium148Test.swift */; };
+		71F9AAB2209C0BF7008E59F6 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAB1209C0BF7008E59F6 /* ListNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +119,9 @@
 		71365C8E208FCA4500AD24A0 /* Medium672Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium672Test.swift; sourceTree = "<group>"; };
 		71365C9020900DB100AD24A0 /* Easy38.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy38.swift; sourceTree = "<group>"; };
 		71365C92209011C100AD24A0 /* Easy38Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy38Test.swift; sourceTree = "<group>"; };
+		71F9AAAD209C0BB5008E59F6 /* Medium148.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium148.swift; sourceTree = "<group>"; };
+		71F9AAAF209C0BC8008E59F6 /* Medium148Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium148Test.swift; sourceTree = "<group>"; };
+		71F9AAB1209C0BF7008E59F6 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +189,7 @@
 				71225DE82091AF2400385F5D /* Medium64Test.swift */,
 				71225DE02091566800385F5D /* Medium74Test.swift */,
 				71225E042098D6CB00385F5D /* Medium75Test.swift */,
+				71F9AAAF209C0BC8008E59F6 /* Medium148Test.swift */,
 				71225DFC20985B0700385F5D /* Medium228Test.swift */,
 				71225DE42091A2B000385F5D /* Medium240Test.swift */,
 				71225E082098DE2000385F5D /* Medium300Test.swift */,
@@ -209,6 +216,7 @@
 				71225DE62091AEED00385F5D /* Medium64.swift */,
 				71225DDE2091562900385F5D /* Medium74.swift */,
 				71225E022098D68E00385F5D /* Medium75.swift */,
+				71F9AAAD209C0BB5008E59F6 /* Medium148.swift */,
 				71225DEA2091B55200385F5D /* Medium215.swift */,
 				71225DFA20985AD800385F5D /* Medium228.swift */,
 				71225DE22091977A00385F5D /* Medium240.swift */,
@@ -228,6 +236,7 @@
 			isa = PBXGroup;
 			children = (
 				71365C80208FA9CB00AD24A0 /* TreeNode.swift */,
+				71F9AAB1209C0BF7008E59F6 /* ListNode.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -339,8 +348,10 @@
 				71225DE32091977A00385F5D /* Medium240.swift in Sources */,
 				71225DDB209150A400385F5D /* Easy26.swift in Sources */,
 				71225DEB2091B55200385F5D /* Medium215.swift in Sources */,
+				71F9AAB2209C0BF7008E59F6 /* ListNode.swift in Sources */,
 				71225DFF2098605000385F5D /* Medium48.swift in Sources */,
 				71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */,
+				71F9AAAE209C0BB5008E59F6 /* Medium148.swift in Sources */,
 				71225DE72091AEED00385F5D /* Medium64.swift in Sources */,
 				71365C8D208FC76500AD24A0 /* Medium672.swift in Sources */,
 				71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */,
@@ -383,6 +394,7 @@
 				71365C7E208F9A8300AD24A0 /* Medium807Test.swift in Sources */,
 				71365C8B208FC26600AD24A0 /* Medium319Test.swift in Sources */,
 				71225DF92098551F00385F5D /* Easy665Test.swift in Sources */,
+				71F9AAB0209C0BC8008E59F6 /* Medium148Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
