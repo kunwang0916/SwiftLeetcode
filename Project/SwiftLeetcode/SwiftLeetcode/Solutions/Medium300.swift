@@ -25,18 +25,15 @@ public class Medium300: NSObject {
             return nums.count
         }
         
-        var maxLength = 0
-        var dp:[Int] = Array(repeating: 0, count: nums.count)
-        dp[0] = 1
+        var dp:[Int] = Array(repeating: 1, count: nums.count)
+        var maxLength = dp[0]
         for i in 1..<nums.count {
-            var currentMaxLength = 1
             for j in 0..<i {
                 if (nums[j] < nums[i]) {
-                    currentMaxLength = max(currentMaxLength, dp[j] + 1)
+                    dp[i] = max(dp[i], dp[j] + 1)
                 }
             }
-            dp[i] = currentMaxLength
-            maxLength = max(currentMaxLength, maxLength)
+            maxLength = max(dp[i], maxLength)
         }
         
         return maxLength
