@@ -15,6 +15,7 @@ The leetcode solutions written in swift.
 |Medium|[#19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium19.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium19.swift)|
 |Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
 |Medium|[#49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium49.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium49.swift)|
+|Medium|[#56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Medium56.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium56.swift)|
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
 |Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
