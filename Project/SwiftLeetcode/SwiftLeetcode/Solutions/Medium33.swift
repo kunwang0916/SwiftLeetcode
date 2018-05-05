@@ -19,11 +19,13 @@ public class Medium33: NSObject {
         }
         var left = 0
         var right = nums.count - 1
+        
         while left <= right {
             let mid = (left + right) / 2
             if nums[mid] == target {
                 return mid
             }
+            //key: find the sorted half, and check whether target in there
             if nums[left] < nums[mid] {
                 if nums[left] <= target && target < nums[mid] {
                     right = mid - 1
