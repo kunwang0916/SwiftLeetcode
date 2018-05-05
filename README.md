@@ -13,6 +13,7 @@ The leetcode solutions written in swift.
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium17.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium17.swift)|
 |Medium|[#19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium19.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium19.swift)|
+|Medium|[#33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)]|[Medium33.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium33.swift)|
 |Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
 |Medium|[#49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium49.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium49.swift)|
 |Medium|[#56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Medium56.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium56.swift)|
