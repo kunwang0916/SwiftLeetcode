@@ -60,6 +60,8 @@
 		71F9AAB6209C1BE0008E59F6 /* Medium416Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAB5209C1BE0008E59F6 /* Medium416Test.swift */; };
 		71F9AAB8209C2D16008E59F6 /* Medium49.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAB7209C2D16008E59F6 /* Medium49.swift */; };
 		71F9AABA209C2D5E008E59F6 /* Medium49Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAB9209C2D5E008E59F6 /* Medium49Test.swift */; };
+		71F9AABC209D5797008E59F6 /* Medium279.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AABB209D5797008E59F6 /* Medium279.swift */; };
+		71F9AABE209D57DC008E59F6 /* Medium279Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AABD209D57DC008E59F6 /* Medium279Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -130,6 +132,8 @@
 		71F9AAB5209C1BE0008E59F6 /* Medium416Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium416Test.swift; sourceTree = "<group>"; };
 		71F9AAB7209C2D16008E59F6 /* Medium49.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium49.swift; sourceTree = "<group>"; };
 		71F9AAB9209C2D5E008E59F6 /* Medium49Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium49Test.swift; sourceTree = "<group>"; };
+		71F9AABB209D5797008E59F6 /* Medium279.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium279.swift; sourceTree = "<group>"; };
+		71F9AABD209D57DC008E59F6 /* Medium279Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium279Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,6 +205,7 @@
 				71F9AAAF209C0BC8008E59F6 /* Medium148Test.swift */,
 				71225DFC20985B0700385F5D /* Medium228Test.swift */,
 				71225DE42091A2B000385F5D /* Medium240Test.swift */,
+				71F9AABD209D57DC008E59F6 /* Medium279Test.swift */,
 				71225E082098DE2000385F5D /* Medium300Test.swift */,
 				71365C8A208FC26600AD24A0 /* Medium319Test.swift */,
 				71F9AAB5209C1BE0008E59F6 /* Medium416Test.swift */,
@@ -231,6 +236,7 @@
 				71225DEA2091B55200385F5D /* Medium215.swift */,
 				71225DFA20985AD800385F5D /* Medium228.swift */,
 				71225DE22091977A00385F5D /* Medium240.swift */,
+				71F9AABB209D5797008E59F6 /* Medium279.swift */,
 				71225E062098DDEF00385F5D /* Medium300.swift */,
 				71365C88208FBFB200AD24A0 /* Medium319.swift */,
 				71F9AAB3209C1BB6008E59F6 /* Medium416.swift */,
@@ -375,6 +381,7 @@
 				71365C83208FAA1F00AD24A0 /* Medium814.swift in Sources */,
 				71365C7C208F958400AD24A0 /* Medium807.swift in Sources */,
 				71225DFB20985AD800385F5D /* Medium228.swift in Sources */,
+				71F9AABC209D5797008E59F6 /* Medium279.swift in Sources */,
 				71225E072098DDEF00385F5D /* Medium300.swift in Sources */,
 				71225DDF2091562900385F5D /* Medium74.swift in Sources */,
 				71365C81208FA9CB00AD24A0 /* TreeNode.swift in Sources */,
@@ -389,6 +396,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71225DE92091AF2400385F5D /* Medium64Test.swift in Sources */,
+				71F9AABE209D57DC008E59F6 /* Medium279Test.swift in Sources */,
 				71365C8F208FCA4500AD24A0 /* Medium672Test.swift in Sources */,
 				71365C6A208F84DE00AD24A0 /* SwiftLeetcodeTests.swift in Sources */,
 				71225DDD209151BE00385F5D /* Easy26Test.swift in Sources */,
