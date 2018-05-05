@@ -11,6 +11,7 @@ The leetcode solutions written in swift.
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
 |Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
+|Medium|[#49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium49.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium49.swift)|
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
 |Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
