@@ -14,6 +14,16 @@ class Medium33Test: XCTestCase {
         var nums:[Int] = []
         var target:Int
         var expected:Int
+
+        nums = [1, 3]
+        target = 3
+        expected = 1
+        XCTAssertEqual(expected, Medium33.search(nums, target))
+        
+        nums = [3, 1]
+        target = 1
+        expected = 1
+        XCTAssertEqual(expected, Medium33.search(nums, target))
         
         nums = [4,5,6,7,0,1,2]
         target = 0
