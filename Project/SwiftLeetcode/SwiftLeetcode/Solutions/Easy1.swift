@@ -5,7 +5,12 @@
 //  Created by roosky on 12/26/18.
 //  Copyright © 2018 K W. All rights reserved.
 //
-
+/**
+ https://leetcode.com/problems/two-sum/
+ 1. Two Sum
+ space O(N)
+ time O(N)
+ **/
 import UIKit
 
 class Easy1: NSObject {

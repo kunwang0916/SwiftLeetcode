@@ -5,6 +5,7 @@ The leetcode solutions written in swift.
 
 |Level| Question|Solution Class| 
 |---|---|---|
+|Easy|[#1. Two Sum](https://leetcode.com/problems/two-sum/)|[Easy1.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1.swift)|
 |Easy|[#26. Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy26.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy26.swift)|
 |Easy|[#38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Easy38.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy38.swift)|
 |Easy|[#66. Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy66.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy66.swift)|
@@ -21,6 +22,7 @@ The leetcode solutions written in swift.
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
 |Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
+|Medium|[#139. Word Break](https://leetcode.com/problems/word-break/)|[Medium139.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium139.swift)|
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
 |Medium|[#200. Number of Islands]( https://leetcode.com/problems/number-of-islands/description/)|[Medium200.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium200.swift)|
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|

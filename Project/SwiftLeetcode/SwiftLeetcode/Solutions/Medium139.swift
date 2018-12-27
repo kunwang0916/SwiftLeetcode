@@ -6,6 +6,12 @@
 //  Copyright © 2018 K W. All rights reserved.
 //
 
+/**
+ https://leetcode.com/problems/word-break/
+ 139. Word Break
+ space O(N)
+ time O(N^3)
+ **/
 import UIKit
 
 public class Medium139: NSObject {
@@ -22,7 +28,7 @@ public class Medium139: NSObject {
         wordArray[0] = true
     
         for i in 1...s.count {
-            for j in stride(from: i-1, through: 0, by: -1) {
+            for j in 0..<i{
                 let fromIndex = s.index(s.startIndex, offsetBy: j)
                 let toIndex = s.index(s.startIndex, offsetBy: i)
                 let subStr = s[fromIndex..<toIndex]
