@@ -27,6 +27,7 @@ The leetcode solutions written in swift.
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
 |Medium|[#74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Medium74.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium74.swift)|
 |Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
+|Medium|[#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Medium98.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium98.swift)|
 |Medium|[#139. Word Break](https://leetcode.com/problems/word-break/)|[Medium139.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium139.swift)|
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
 |Medium|[#200. Number of Islands]( https://leetcode.com/problems/number-of-islands/description/)|[Medium200.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium200.swift)|
