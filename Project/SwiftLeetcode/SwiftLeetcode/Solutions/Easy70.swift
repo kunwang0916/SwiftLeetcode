@@ -18,7 +18,7 @@ public class Easy70: NSObject {
     
     /**
      recursive way,
-     time: O(N^k), tree
+     time: O(2^n), tree
      space: O(N), call stacks
      **/
     public class func recursive(_ n: Int) -> Int {
