@@ -45,5 +45,6 @@ The leetcode solutions written in swift.
 |Medium|[#672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)|[Medium672.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium672.swift)|
 |Medium|[#807. Max Increase to Keep City Skylinee](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|[Medium807.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium807.swift)|
 |Medium|[#814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Medium814.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium814.swift)|
+|Medium|[#845. Longest Mountain in Array](https://leetcode.com/problems/binary-tree-pruning/)|[Medium845.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium845.swift)|
 |Medium|[#951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Medium951.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium951.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
