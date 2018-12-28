@@ -11,8 +11,8 @@
  **/
 import UIKit
 
-class Easy70: NSObject {
-    func climbStairs(_ n: Int) -> Int {
+public class Easy70: NSObject {
+    public class func climbStairs(_ n: Int) -> Int {
         return constDP(n)
     }
     
@@ -21,12 +21,12 @@ class Easy70: NSObject {
      time: O(N^k), tree
      space: O(N), call stacks
      **/
-    func recursive(_ n: Int) -> Int {
-        if (n <= 2) {
-            return n
+    public class func recursive(_ n: Int) -> Int {
+        if (n <= 1) {
+            return 1
         }
         
-        return climbStairs(n-1) + climbStairs(n-2)
+        return recursive(n-1) + recursive(n-2)
     }
     
     /**
@@ -34,15 +34,14 @@ class Easy70: NSObject {
      time: O(N)
      space: O(N)
      **/
-    func arrayDP(_ n: Int) -> Int {
-        if (n <= 2) {
-            return n
+    public class func arrayDP(_ n: Int) -> Int {
+        if (n <= 1) {
+            return 1
         }
         var dp = Array(repeating: 0, count: n + 1)
-        dp[0] = 0
+        dp[0] = 1
         dp[1] = 1
-        dp[2] = 2
-        for i in 3...n {
+        for i in 2...n {
             dp[i] = dp[i-1] + dp[i-2]
         }
         return dp[n]
@@ -53,14 +52,14 @@ class Easy70: NSObject {
      time: O(N)
      space: O(1)
      **/
-    func constDP(_ n: Int) -> Int {
-        if (n <= 2) {
-            return n
+    public class func constDP(_ n: Int) -> Int {
+        if (n <= 1) {
+            return 1
         }
         
         var value1 = 1
-        var value2 = 2
-        for i in 3...n {
+        var value2 = 1
+        for _ in 2...n {
             (value2, value1) = (value1 + value2, value2)
         }
         return value2
