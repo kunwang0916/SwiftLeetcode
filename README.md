@@ -9,6 +9,7 @@ The leetcode solutions written in swift.
 |Easy|[#26. Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy26.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy26.swift)|
 |Easy|[#38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Easy38.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy38.swift)|
 |Easy|[#66. Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy66.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy66.swift)|
+|Easy|[#70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Easy70.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy70.swift)|
 |Easy|[#100. Same Tree](https://leetcode.com/problems/same-tree/)|[Easy100.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy100.swift)|
 |Easy|[#101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Easy101.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy101.swift)|
 |Easy|[#104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Easy104.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy104.swift)|
