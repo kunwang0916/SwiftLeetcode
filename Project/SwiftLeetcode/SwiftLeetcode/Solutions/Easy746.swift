@@ -8,18 +8,22 @@
 /**
  746. Min Cost Climbing Stairs
  https://leetcode.com/problems/min-cost-climbing-stairs/
+ time: O(N)
+ space: O(1)
  **/
 import UIKit
 
 class Easy746: NSObject {
     func minCostClimbingStairs(_ cost: [Int]) -> Int {
-        var minCost = Array(repeating: 0, count: cost.count)
-        minCost[0] = cost[0]
-        minCost[1] = cost[1]
-        for i in 2..<cost.count {
-            minCost[i] = min(minCost[i-2], minCost[i-1]) + cost[i]
+        var dp1 = 0
+        var dp2 = 0
+        var t = 0
+        for i in 2...cost.count {
+            t =  min(dp2 + cost[i-1], dp1 + cost[i-2])
+            dp1 = dp2
+            dp2 = t
         }
         
-        return min(minCost[cost.count-1], minCost[cost.count-2])
+        return dp2
     }
 }
