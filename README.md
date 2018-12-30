@@ -20,6 +20,7 @@ The leetcode solutions written in swift.
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#746. Non-decreasing Array](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Easy746.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy746.swift)|
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
+|Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium17.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium17.swift)|
 |Medium|[#19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium19.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium19.swift)|
@@ -50,4 +51,5 @@ The leetcode solutions written in swift.
 |Medium|[#814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Medium814.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium814.swift)|
 |Medium|[#845. Longest Mountain in Array](https://leetcode.com/problems/binary-tree-pruning/)|[Medium845.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium845.swift)|
 |Medium|[#951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Medium951.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium951.swift)|
+|Medium|[#967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Medium967.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium967.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|

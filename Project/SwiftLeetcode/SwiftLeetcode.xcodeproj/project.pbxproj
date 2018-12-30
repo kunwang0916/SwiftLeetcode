@@ -73,6 +73,9 @@
 		71C9EF6221D69D6C006129C9 /* Easy746.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF6121D69D6C006129C9 /* Easy746.swift */; };
 		71C9EF6421D752B2006129C9 /* Medium63.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF6321D752B2006129C9 /* Medium63.swift */; };
 		71C9EF6621D7560B006129C9 /* Medium63Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF6521D7560B006129C9 /* Medium63Test.swift */; };
+		71C9EF6821D77438006129C9 /* Candies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF6721D77438006129C9 /* Candies.swift */; };
+		71C9EF6A21D8661F006129C9 /* Easy965.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF6921D8661F006129C9 /* Easy965.swift */; };
+		71C9EF6C21D86D84006129C9 /* Medium967.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF6B21D86D84006129C9 /* Medium967.swift */; };
 		71F9AAAE209C0BB5008E59F6 /* Medium148.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAAD209C0BB5008E59F6 /* Medium148.swift */; };
 		71F9AAB0209C0BC8008E59F6 /* Medium148Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAAF209C0BC8008E59F6 /* Medium148Test.swift */; };
 		71F9AAB2209C0BF7008E59F6 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AAB1209C0BF7008E59F6 /* ListNode.swift */; };
@@ -182,6 +185,9 @@
 		71C9EF6121D69D6C006129C9 /* Easy746.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy746.swift; sourceTree = "<group>"; };
 		71C9EF6321D752B2006129C9 /* Medium63.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium63.swift; sourceTree = "<group>"; };
 		71C9EF6521D7560B006129C9 /* Medium63Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium63Test.swift; sourceTree = "<group>"; };
+		71C9EF6721D77438006129C9 /* Candies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Candies.swift; sourceTree = "<group>"; };
+		71C9EF6921D8661F006129C9 /* Easy965.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy965.swift; sourceTree = "<group>"; };
+		71C9EF6B21D86D84006129C9 /* Medium967.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium967.swift; sourceTree = "<group>"; };
 		71F9AAAD209C0BB5008E59F6 /* Medium148.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium148.swift; sourceTree = "<group>"; };
 		71F9AAAF209C0BC8008E59F6 /* Medium148Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium148Test.swift; sourceTree = "<group>"; };
 		71F9AAB1209C0BF7008E59F6 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
@@ -324,6 +330,7 @@
 				71225DF6209854F900385F5D /* Easy665.swift */,
 				71C9EF6121D69D6C006129C9 /* Easy746.swift */,
 				71365C75208F85FA00AD24A0 /* Easy771.swift */,
+				71C9EF6921D8661F006129C9 /* Easy965.swift */,
 				71F9AABF209D60BA008E59F6 /* Medium11.swift */,
 				71F9AAC7209D7246008E59F6 /* Medium17.swift */,
 				71F9AACB209D7B80008E59F6 /* Medium19.swift */,
@@ -352,6 +359,8 @@
 				71365C8C208FC76500AD24A0 /* Medium672.swift */,
 				71C9EF4D21D4B720006129C9 /* Medium684.swift */,
 				71365C7B208F958400AD24A0 /* Medium807.swift */,
+				71C9EF6B21D86D84006129C9 /* Medium967.swift */,
+				71C9EF6721D77438006129C9 /* Candies.swift */,
 				71365C82208FAA1F00AD24A0 /* Medium814.swift */,
 				71C9EF5D21D60631006129C9 /* Medium845.swift */,
 				71C9EF4B21D4A399006129C9 /* Medium951.swift */,
@@ -495,12 +504,15 @@
 				71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */,
 				71F9AAAE209C0BB5008E59F6 /* Medium148.swift in Sources */,
 				71225DE72091AEED00385F5D /* Medium64.swift in Sources */,
+				71C9EF6A21D8661F006129C9 /* Easy965.swift in Sources */,
 				71365C8D208FC76500AD24A0 /* Medium672.swift in Sources */,
 				71C9EF4621D497B6006129C9 /* Easy112.swift in Sources */,
 				71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */,
 				71C9EF4821D49EF8006129C9 /* Easy100.swift in Sources */,
+				71C9EF6C21D86D84006129C9 /* Medium967.swift in Sources */,
 				71225DF3209801EB00385F5D /* Easy66.swift in Sources */,
 				71225DD72090E6A300385F5D /* Medium560.swift in Sources */,
+				71C9EF6821D77438006129C9 /* Candies.swift in Sources */,
 				71F9AAC8209D7246008E59F6 /* Medium17.swift in Sources */,
 				71C9EF6421D752B2006129C9 /* Medium63.swift in Sources */,
 				71C9EF5221D5F61D006129C9 /* Medium98.swift in Sources */,
