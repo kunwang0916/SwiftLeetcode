@@ -42,6 +42,7 @@ The leetcode solutions written in swift.
 |Medium|[#200. Number of Islands]( https://leetcode.com/problems/number-of-islands/description/)|[Medium200.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium200.swift)|
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
+|Medium|[#230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Medium230.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium230.swift)|
 |Medium|[#240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium240.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium240.swift)|
 |Medium|[#279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium279.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium279.swift)|
 |Medium|[#300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium300.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium300.swift)|
