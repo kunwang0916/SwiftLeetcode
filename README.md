@@ -18,6 +18,7 @@ The leetcode solutions written in swift.
 |Easy|[#111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Easy111.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy111.swift)|
 |Easy|[#112. Path Sum](https://leetcode.com/problems/path-sum/)|[Easy112.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy112.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
+|Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#746. Non-decreasing Array](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Easy746.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy746.swift)|
