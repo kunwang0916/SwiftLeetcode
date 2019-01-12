@@ -15,6 +15,12 @@ class DemoTest: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         XCTAssertEqual(1, Demo.convert(Character("1")))
+        XCTAssertEqual(7, Demo.convert(Character("7")))
+    }
+    
+    func testStringToNum() {
+        XCTAssertEqual(9999, Demo.stringToNum("9999"))
+        XCTAssertEqual(-333, Demo.stringToNum("-333"))
     }
 
 }
