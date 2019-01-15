@@ -59,3 +59,4 @@ The leetcode solutions written in swift.
 |Medium|[#951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Medium951.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium951.swift)|
 |Medium|[#967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Medium967.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium967.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
+|Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
