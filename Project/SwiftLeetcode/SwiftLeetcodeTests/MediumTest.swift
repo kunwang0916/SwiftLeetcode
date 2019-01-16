@@ -33,5 +33,26 @@ class MediumTest: XCTestCase {
         expected = 1
         XCTAssertEqual(expected, Medium322.coinChange(coins, amount))
     }
+    
+    func test518() {
+        var amount: Int
+        var coins: [Int]
+        var expected: Int
+        
+        amount = 5
+        coins = [1, 2, 5]
+        expected = 4
+        XCTAssertEqual(expected, Medium518.change(amount, coins))
+        
+        amount = 3
+        coins = [2]
+        expected = 0
+        XCTAssertEqual(expected, Medium518.change(amount, coins))
+        
+        amount = 10
+        coins = [10]
+        expected = 1
+        XCTAssertEqual(expected, Medium518.change(amount, coins))
+    }
 
 }
