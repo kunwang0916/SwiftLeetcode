@@ -35,6 +35,8 @@
 		71225E092098DE2000385F5D /* Medium300Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71225E082098DE2000385F5D /* Medium300Test.swift */; };
 		712B039C21EDC7DF0033EF7F /* Hard135.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B039B21EDC7DF0033EF7F /* Hard135.swift */; };
 		712B039E21EDC8180033EF7F /* Hard135Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B039D21EDC8180033EF7F /* Hard135Test.swift */; };
+		712B03A021EF06B60033EF7F /* MediumTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B039F21EF06B60033EF7F /* MediumTest.swift */; };
+		712B03A221EF07080033EF7F /* Medium322.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A121EF07080033EF7F /* Medium322.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -153,6 +155,8 @@
 		71225E082098DE2000385F5D /* Medium300Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium300Test.swift; sourceTree = "<group>"; };
 		712B039B21EDC7DF0033EF7F /* Hard135.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard135.swift; sourceTree = "<group>"; };
 		712B039D21EDC8180033EF7F /* Hard135Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard135Test.swift; sourceTree = "<group>"; };
+		712B039F21EF06B60033EF7F /* MediumTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumTest.swift; sourceTree = "<group>"; };
+		712B03A121EF07080033EF7F /* Medium322.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium322.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -327,6 +331,7 @@
 				71365C8E208FCA4500AD24A0 /* Medium672Test.swift */,
 				71C9EF4F21D4B752006129C9 /* Medium684Test.swift */,
 				71365C7D208F9A8300AD24A0 /* Medium807Test.swift */,
+				712B039F21EF06B60033EF7F /* MediumTest.swift */,
 				71225DF02097FDD600385F5D /* Hard41Test.swift */,
 				712B039D21EDC8180033EF7F /* Hard135Test.swift */,
 				71C9EF8121E936D5006129C9 /* DemoTest.swift */,
@@ -380,6 +385,7 @@
 				71F9AABB209D5797008E59F6 /* Medium279.swift */,
 				71225E062098DDEF00385F5D /* Medium300.swift */,
 				71365C88208FBFB200AD24A0 /* Medium319.swift */,
+				712B03A121EF07080033EF7F /* Medium322.swift */,
 				71F9AAB3209C1BB6008E59F6 /* Medium416.swift */,
 				71225DD62090E6A300385F5D /* Medium560.swift */,
 				71365C84208FB35E00AD24A0 /* Medium654.swift */,
@@ -544,6 +550,7 @@
 				71C9EF7821E1A397006129C9 /* Easy970.swift in Sources */,
 				71365C76208F85FA00AD24A0 /* Easy771.swift in Sources */,
 				71C9EF4821D49EF8006129C9 /* Easy100.swift in Sources */,
+				712B03A221EF07080033EF7F /* Medium322.swift in Sources */,
 				71C9EF8021E93636006129C9 /* Demo.swift in Sources */,
 				712B039C21EDC7DF0033EF7F /* Hard135.swift in Sources */,
 				71C9EF6C21D86D84006129C9 /* Medium967.swift in Sources */,
@@ -584,6 +591,7 @@
 				71F9AABE209D57DC008E59F6 /* Medium279Test.swift in Sources */,
 				71C9EF8221E936D5006129C9 /* DemoTest.swift in Sources */,
 				71365C8F208FCA4500AD24A0 /* Medium672Test.swift in Sources */,
+				712B03A021EF06B60033EF7F /* MediumTest.swift in Sources */,
 				71365C6A208F84DE00AD24A0 /* SwiftLeetcodeTests.swift in Sources */,
 				71F9AAC2209D60EB008E59F6 /* Medium11Test.swift in Sources */,
 				71225DDD209151BE00385F5D /* Easy26Test.swift in Sources */,

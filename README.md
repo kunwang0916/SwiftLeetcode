@@ -48,6 +48,7 @@ The leetcode solutions written in swift.
 |Medium|[#279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium279.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium279.swift)|
 |Medium|[#300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium300.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium300.swift)|
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
+|Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|
 |Medium|[#560. Subarray Sum Equals K]( https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Medium560.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium560.swift)|
 |Medium|[#654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Medium654.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium654.swift)|
