@@ -55,4 +55,20 @@ class MediumTest: XCTestCase {
         XCTAssertEqual(expected, Medium518.change(amount, coins))
     }
 
+    func test978() {
+        var a = [Int]()
+        var expected: Int
+        
+        a = [4,8,12,16]
+        expected = 2
+        XCTAssertEqual(expected, Medium978.maxTurbulenceSize(a))
+        
+        a = [9,4,2,10,7,8,8,1,9]
+        expected = 5
+        XCTAssertEqual(expected, Medium978.maxTurbulenceSize(a))
+        
+        a = [100]
+        expected = 1
+        XCTAssertEqual(expected, Medium978.maxTurbulenceSize(a))
+    }
 }

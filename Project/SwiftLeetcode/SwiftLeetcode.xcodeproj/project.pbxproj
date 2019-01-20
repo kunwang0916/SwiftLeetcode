@@ -38,6 +38,7 @@
 		712B03A021EF06B60033EF7F /* MediumTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B039F21EF06B60033EF7F /* MediumTest.swift */; };
 		712B03A221EF07080033EF7F /* Medium322.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A121EF07080033EF7F /* Medium322.swift */; };
 		712B03A421EF20730033EF7F /* Medium518.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A321EF20730033EF7F /* Medium518.swift */; };
+		712B03A621F41C230033EF7F /* Medium978.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A521F41C230033EF7F /* Medium978.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -159,6 +160,7 @@
 		712B039F21EF06B60033EF7F /* MediumTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumTest.swift; sourceTree = "<group>"; };
 		712B03A121EF07080033EF7F /* Medium322.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium322.swift; sourceTree = "<group>"; };
 		712B03A321EF20730033EF7F /* Medium518.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium518.swift; sourceTree = "<group>"; };
+		712B03A521F41C230033EF7F /* Medium978.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium978.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -400,6 +402,7 @@
 				71C9EF7321D8A74C006129C9 /* Medium875.swift */,
 				71C9EF4B21D4A399006129C9 /* Medium951.swift */,
 				71C9EF6B21D86D84006129C9 /* Medium967.swift */,
+				712B03A521F41C230033EF7F /* Medium978.swift */,
 				71C9EF6721D77438006129C9 /* Candies.swift */,
 				71225DEE2097FDB600385F5D /* Hard41.swift */,
 				712B039B21EDC7DF0033EF7F /* Hard135.swift */,
@@ -560,6 +563,7 @@
 				71225DF3209801EB00385F5D /* Easy66.swift in Sources */,
 				71225DD72090E6A300385F5D /* Medium560.swift in Sources */,
 				71C9EF6821D77438006129C9 /* Candies.swift in Sources */,
+				712B03A621F41C230033EF7F /* Medium978.swift in Sources */,
 				71F9AAC8209D7246008E59F6 /* Medium17.swift in Sources */,
 				712B03A421EF20730033EF7F /* Medium518.swift in Sources */,
 				71C9EF8421E9D73C006129C9 /* Easy206.swift in Sources */,
