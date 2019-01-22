@@ -60,5 +60,7 @@ The leetcode solutions written in swift.
 |Medium|[#875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Medium875.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium875.swift)|
 |Medium|[#951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Medium951.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium951.swift)|
 |Medium|[#967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Medium967.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium967.swift)|
+|Medium|[#979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Medium979.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium979.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
+|Hard|[#980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Hard980.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard980.swift)|

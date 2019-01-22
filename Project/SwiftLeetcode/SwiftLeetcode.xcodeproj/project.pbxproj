@@ -39,6 +39,9 @@
 		712B03A221EF07080033EF7F /* Medium322.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A121EF07080033EF7F /* Medium322.swift */; };
 		712B03A421EF20730033EF7F /* Medium518.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A321EF20730033EF7F /* Medium518.swift */; };
 		712B03A621F41C230033EF7F /* Medium978.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A521F41C230033EF7F /* Medium978.swift */; };
+		712B03A821F420210033EF7F /* Medium979.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A721F420210033EF7F /* Medium979.swift */; };
+		712B03AA21F4242C0033EF7F /* Hard980.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03A921F4242C0033EF7F /* Hard980.swift */; };
+		712B03AC21F6EE840033EF7F /* HardTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03AB21F6EE840033EF7F /* HardTest.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -161,6 +164,9 @@
 		712B03A121EF07080033EF7F /* Medium322.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium322.swift; sourceTree = "<group>"; };
 		712B03A321EF20730033EF7F /* Medium518.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium518.swift; sourceTree = "<group>"; };
 		712B03A521F41C230033EF7F /* Medium978.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium978.swift; sourceTree = "<group>"; };
+		712B03A721F420210033EF7F /* Medium979.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium979.swift; sourceTree = "<group>"; };
+		712B03A921F4242C0033EF7F /* Hard980.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard980.swift; sourceTree = "<group>"; };
+		712B03AB21F6EE840033EF7F /* HardTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardTest.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -339,6 +345,7 @@
 				71225DF02097FDD600385F5D /* Hard41Test.swift */,
 				712B039D21EDC8180033EF7F /* Hard135Test.swift */,
 				71C9EF8121E936D5006129C9 /* DemoTest.swift */,
+				712B03AB21F6EE840033EF7F /* HardTest.swift */,
 			);
 			path = SwiftLeetcodeTests;
 			sourceTree = "<group>";
@@ -403,9 +410,11 @@
 				71C9EF4B21D4A399006129C9 /* Medium951.swift */,
 				71C9EF6B21D86D84006129C9 /* Medium967.swift */,
 				712B03A521F41C230033EF7F /* Medium978.swift */,
+				712B03A721F420210033EF7F /* Medium979.swift */,
 				71C9EF6721D77438006129C9 /* Candies.swift */,
 				71225DEE2097FDB600385F5D /* Hard41.swift */,
 				712B039B21EDC7DF0033EF7F /* Hard135.swift */,
+				712B03A921F4242C0033EF7F /* Hard980.swift */,
 				71C9EF7F21E93636006129C9 /* Demo.swift */,
 			);
 			path = Solutions;
@@ -533,6 +542,7 @@
 				71C9EF7421D8A74C006129C9 /* Medium875.swift in Sources */,
 				71F9AAD6209E18AC008E59F6 /* Medium33.swift in Sources */,
 				71F9AAC0209D60BA008E59F6 /* Medium11.swift in Sources */,
+				712B03A821F420210033EF7F /* Medium979.swift in Sources */,
 				71225DEF2097FDB600385F5D /* Hard41.swift in Sources */,
 				71F9AAB8209C2D16008E59F6 /* Medium49.swift in Sources */,
 				71C9EF6021D69948006129C9 /* Easy198.swift in Sources */,
@@ -581,6 +591,7 @@
 				71225DFB20985AD800385F5D /* Medium228.swift in Sources */,
 				71F9AABC209D5797008E59F6 /* Medium279.swift in Sources */,
 				71225E072098DDEF00385F5D /* Medium300.swift in Sources */,
+				712B03AA21F4242C0033EF7F /* Hard980.swift in Sources */,
 				71225DDF2091562900385F5D /* Medium74.swift in Sources */,
 				71F9AAC4209D659C008E59F6 /* Medium200.swift in Sources */,
 				71365C81208FA9CB00AD24A0 /* TreeNode.swift in Sources */,
@@ -633,6 +644,7 @@
 				71365C8B208FC26600AD24A0 /* Medium319Test.swift in Sources */,
 				712B039E21EDC8180033EF7F /* Hard135Test.swift in Sources */,
 				71F9AACA209D7286008E59F6 /* Medium17Test.swift in Sources */,
+				712B03AC21F6EE840033EF7F /* HardTest.swift in Sources */,
 				71225DF92098551F00385F5D /* Easy665Test.swift in Sources */,
 				71F9AAB0209C0BC8008E59F6 /* Medium148Test.swift in Sources */,
 			);
