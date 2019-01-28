@@ -71,4 +71,25 @@ class MediumTest: XCTestCase {
         expected = 1
         XCTAssertEqual(expected, Medium978.maxTurbulenceSize(a))
     }
+    
+    func test983() {
+        var days = [Int]()
+        var costs = [Int]()
+        var expected: Int
+        
+        days = [1, 4, 6, 7, 8, 20]
+        costs = [2, 7, 15]
+        expected = 11
+        XCTAssertEqual(expected, Medium983.mincostTickets(days, costs))
+        
+        days = [1,2,3,4,5,6,7,8,9,10,30,31]
+        costs = [2, 7, 15]
+        expected = 17
+        XCTAssertEqual(expected, Medium983.mincostTickets(days, costs))
+        
+        days = [1,2,3,4,6,8,9,10,13,14,16,17,19,21,24,26,27,28,29]
+        costs = [3,14,50]
+        expected = 50
+        XCTAssertEqual(expected, Medium983.mincostTickets(days, costs))
+    }
 }

@@ -19,7 +19,10 @@ The leetcode solutions written in swift.
 |Easy|[#112. Path Sum](https://leetcode.com/problems/path-sum/)|[Easy112.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy112.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
 |Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
+|Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
+|Easy|[#283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Easy283.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy283.swift)|
+|Easy|[#543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Easy543.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy543.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#746. Non-decreasing Array](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Easy746.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy746.swift)|
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
@@ -61,6 +64,7 @@ The leetcode solutions written in swift.
 |Medium|[#951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Medium951.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium951.swift)|
 |Medium|[#967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Medium967.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium967.swift)|
 |Medium|[#979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Medium979.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium979.swift)|
+|Medium|[#983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Medium983.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium983.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
 |Hard|[#980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Hard980.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard980.swift)|
