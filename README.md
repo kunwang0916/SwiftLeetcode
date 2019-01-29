@@ -70,4 +70,5 @@ The leetcode solutions written in swift.
 |Medium|[#983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Medium983.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium983.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
+|Hard|[#301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Hard301.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard301.swift)|
 |Hard|[#980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Hard980.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard980.swift)|
