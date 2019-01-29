@@ -48,6 +48,7 @@
 		712B03B821FEE1510033EF7F /* EasyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03B721FEE1510033EF7F /* EasyTests.swift */; };
 		712B03BA21FEE6680033EF7F /* Easy543.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03B921FEE6680033EF7F /* Easy543.swift */; };
 		712B03BC22000BC10033EF7F /* Medium78.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03BB22000BC10033EF7F /* Medium78.swift */; };
+		712B03BE220024DA0033EF7F /* Medium46.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03BD220024DA0033EF7F /* Medium46.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -179,6 +180,7 @@
 		712B03B721FEE1510033EF7F /* EasyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyTests.swift; sourceTree = "<group>"; };
 		712B03B921FEE6680033EF7F /* Easy543.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy543.swift; sourceTree = "<group>"; };
 		712B03BB22000BC10033EF7F /* Medium78.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium78.swift; sourceTree = "<group>"; };
+		712B03BD220024DA0033EF7F /* Medium46.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium46.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -395,6 +397,7 @@
 				71F9AACB209D7B80008E59F6 /* Medium19.swift */,
 				71F9AAD5209E18AC008E59F6 /* Medium33.swift */,
 				71F9AAD9209EC245008E59F6 /* Medium34.swift */,
+				712B03BD220024DA0033EF7F /* Medium46.swift */,
 				71225DFE2098605000385F5D /* Medium48.swift */,
 				71F9AAB7209C2D16008E59F6 /* Medium49.swift */,
 				71F9AACF209D8202008E59F6 /* Medium56.swift */,
@@ -609,6 +612,7 @@
 				71365C7C208F958400AD24A0 /* Medium807.swift in Sources */,
 				71C9EF4421D4960D006129C9 /* Easy111.swift in Sources */,
 				71225DFB20985AD800385F5D /* Medium228.swift in Sources */,
+				712B03BE220024DA0033EF7F /* Medium46.swift in Sources */,
 				71F9AABC209D5797008E59F6 /* Medium279.swift in Sources */,
 				71225E072098DDEF00385F5D /* Medium300.swift in Sources */,
 				712B03AA21F4242C0033EF7F /* Hard980.swift in Sources */,

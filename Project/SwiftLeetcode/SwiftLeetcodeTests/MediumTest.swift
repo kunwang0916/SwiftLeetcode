@@ -92,4 +92,13 @@ class MediumTest: XCTestCase {
         expected = 50
         XCTAssertEqual(expected, Medium983.mincostTickets(days, costs))
     }
+    
+    func test46()  {
+        var nums = [1, 2, 3]
+        let s = Medium46()
+        print(s.permute(nums))
+        
+        nums = []
+        print(s.permute(nums))
+    }
 }
