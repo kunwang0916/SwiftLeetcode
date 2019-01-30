@@ -18,6 +18,7 @@ The leetcode solutions written in swift.
 |Easy|[#111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Easy111.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy111.swift)|
 |Easy|[#112. Path Sum](https://leetcode.com/problems/path-sum/)|[Easy112.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy112.swift)|
 |Easy|[#121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Easy121.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy121.swift)|
+|Easy|[#122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Easy122.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy122.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
 |Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|

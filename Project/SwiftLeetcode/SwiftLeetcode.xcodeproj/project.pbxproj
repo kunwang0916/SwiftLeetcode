@@ -53,6 +53,7 @@
 		712B03C22200395D0033EF7F /* Hard301.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C12200395D0033EF7F /* Hard301.swift */; };
 		712B03C422015D420033EF7F /* Medium2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C322015D420033EF7F /* Medium2.swift */; };
 		712B03C6220164CF0033EF7F /* Easy121.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C5220164CF0033EF7F /* Easy121.swift */; };
+		712B03C8220167AC0033EF7F /* Easy122.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C7220167AC0033EF7F /* Easy122.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -189,6 +190,7 @@
 		712B03C12200395D0033EF7F /* Hard301.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard301.swift; sourceTree = "<group>"; };
 		712B03C322015D420033EF7F /* Medium2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium2.swift; sourceTree = "<group>"; };
 		712B03C5220164CF0033EF7F /* Easy121.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy121.swift; sourceTree = "<group>"; };
+		712B03C7220167AC0033EF7F /* Easy122.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy122.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -389,6 +391,7 @@
 				71C9EF4321D4960D006129C9 /* Easy111.swift */,
 				71C9EF4521D497B6006129C9 /* Easy112.swift */,
 				712B03C5220164CF0033EF7F /* Easy121.swift */,
+				712B03C7220167AC0033EF7F /* Easy122.swift */,
 				71C9EF8321E9D73C006129C9 /* Easy206.swift */,
 				712B03B521FEE1280033EF7F /* Easy257.swift */,
 				71C9EF6D21D89BC2006129C9 /* Easy268.swift */,
@@ -591,6 +594,7 @@
 				71225DFF2098605000385F5D /* Medium48.swift in Sources */,
 				71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */,
 				71F9AAAE209C0BB5008E59F6 /* Medium148.swift in Sources */,
+				712B03C8220167AC0033EF7F /* Easy122.swift in Sources */,
 				71225DE72091AEED00385F5D /* Medium64.swift in Sources */,
 				71C9EF7021D8A1B5006129C9 /* Easy69.swift in Sources */,
 				71C9EF6A21D8661F006129C9 /* Easy965.swift in Sources */,
