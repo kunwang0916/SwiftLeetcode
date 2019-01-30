@@ -28,6 +28,7 @@ The leetcode solutions written in swift.
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
 |Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
 |Easy|[#970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Easy970.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy970.swift)|
+|Medium|[#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Medium2.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium2.swift)|
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium17.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium17.swift)|
 |Medium|[#19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium19.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium19.swift)|
