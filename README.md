@@ -26,6 +26,7 @@ The leetcode solutions written in swift.
 |Easy|[#283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Easy283.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy283.swift)|
 |Easy|[#543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Easy543.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy543.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
+|Easy|[#680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Easy680.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy680.swift)|
 |Easy|[#746. Non-decreasing Array](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Easy746.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy746.swift)|
 |Easy|[#771. jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Easy771.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy771.swift)|
 |Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
