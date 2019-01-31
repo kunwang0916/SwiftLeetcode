@@ -55,6 +55,7 @@
 		712B03C6220164CF0033EF7F /* Easy121.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C5220164CF0033EF7F /* Easy121.swift */; };
 		712B03C8220167AC0033EF7F /* Easy122.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C7220167AC0033EF7F /* Easy122.swift */; };
 		712B03CA220188E50033EF7F /* Medium309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03C9220188E50033EF7F /* Medium309.swift */; };
+		712B03CC2202E1400033EF7F /* Medium15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03CB2202E1400033EF7F /* Medium15.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -193,6 +194,7 @@
 		712B03C5220164CF0033EF7F /* Easy121.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy121.swift; sourceTree = "<group>"; };
 		712B03C7220167AC0033EF7F /* Easy122.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy122.swift; sourceTree = "<group>"; };
 		712B03C9220188E50033EF7F /* Medium309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium309.swift; sourceTree = "<group>"; };
+		712B03CB2202E1400033EF7F /* Medium15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium15.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -408,6 +410,7 @@
 				71C9EF7721E1A397006129C9 /* Easy970.swift */,
 				712B03C322015D420033EF7F /* Medium2.swift */,
 				71F9AABF209D60BA008E59F6 /* Medium11.swift */,
+				712B03CB2202E1400033EF7F /* Medium15.swift */,
 				71F9AAC7209D7246008E59F6 /* Medium17.swift */,
 				71F9AACB209D7B80008E59F6 /* Medium19.swift */,
 				71F9AAD5209E18AC008E59F6 /* Medium33.swift */,
@@ -621,6 +624,7 @@
 				71C9EF8421E9D73C006129C9 /* Easy206.swift in Sources */,
 				71C9EF6421D752B2006129C9 /* Medium63.swift in Sources */,
 				71C9EF5221D5F61D006129C9 /* Medium98.swift in Sources */,
+				712B03CC2202E1400033EF7F /* Medium15.swift in Sources */,
 				71365C9120900DB100AD24A0 /* Easy38.swift in Sources */,
 				71F9AAB4209C1BB6008E59F6 /* Medium416.swift in Sources */,
 				71F9AAD0209D8202008E59F6 /* Medium56.swift in Sources */,

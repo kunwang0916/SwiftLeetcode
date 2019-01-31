@@ -11,6 +11,12 @@ import XCTest
 
 class MediumTest: XCTestCase {
 
+    func test15() {
+        var nums = [-1, 0, 1, 2, -1, -4]
+        var result = Medium15.threeSum(nums)
+    }
+    
+    
     func test322() {
         var coins = [1, 2, 5]
         var amount = 11
