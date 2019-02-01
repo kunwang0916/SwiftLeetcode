@@ -12,10 +12,19 @@ import XCTest
 class MediumTest: XCTestCase {
 
     func test15() {
-        var nums = [-1, 0, 1, 2, -1, -4]
-        var result = Medium15.threeSum(nums)
+        let nums = [-1, 0, 1, 2, -1, -4]
+        _ = Medium15.threeSum(nums)
     }
     
+    
+    func test253() {
+        var intervals = [Interval(0, 30), Interval(5, 10), Interval(15, 20)]
+        var expected = 2
+        XCTAssertEqual(expected, Medium253.minMeetingRooms(intervals))
+        intervals = [Interval(7, 10), Interval(2, 4)]
+        expected = 1
+        XCTAssertEqual(expected, Medium253.minMeetingRooms(intervals))
+    }
     
     func test322() {
         var coins = [1, 2, 5]

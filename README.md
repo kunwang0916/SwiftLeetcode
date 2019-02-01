@@ -21,6 +21,7 @@ The leetcode solutions written in swift.
 |Easy|[#122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Easy122.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy122.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
 |Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
+|Easy|[#252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Easy252.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy252.swift)|
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
 |Easy|[#283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Easy283.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy283.swift)|
@@ -56,6 +57,7 @@ The leetcode solutions written in swift.
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
 |Medium|[#230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Medium230.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium230.swift)|
 |Medium|[#240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium240.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium240.swift)|
+|Medium|[#253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Medium253.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium253.swift)|
 |Medium|[#279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium279.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium279.swift)|
 |Medium|[#300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium300.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium300.swift)|
 |Medium|[#309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Medium309.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium309.swift)|
