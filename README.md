@@ -63,6 +63,7 @@ The leetcode solutions written in swift.
 |Medium|[#309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Medium309.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium309.swift)|
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
 |Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
+|Medium|[#349. Intersection of Two Arrays](intersection-of-two-arrays)|[Medium349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium349.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|
 |Medium|[#518. Coin Change 2]( https://leetcode.com/problems/coin-change-2/)|[Medium518.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium518.swift)|
 |Medium|[#560. Subarray Sum Equals K]( https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Medium560.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium560.swift)|
