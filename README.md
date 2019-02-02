@@ -52,6 +52,7 @@ The leetcode solutions written in swift.
 |Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
 |Medium|[#78. Subsets](https://leetcode.com/problems/subsets)|[Medium78.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium78.swift)|
 |Medium|[#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Medium98.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium98.swift)|
+|Medium|[#114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Medium114.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium114.swift)|
 |Medium|[#139. Word Break](https://leetcode.com/problems/word-break/)|[Medium139.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium139.swift)|
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
 |Medium|[#200. Number of Islands]( https://leetcode.com/problems/number-of-islands/description/)|[Medium200.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium200.swift)|
