@@ -25,6 +25,8 @@ The leetcode solutions written in swift.
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
 |Easy|[#283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Easy283.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy283.swift)|
+|Easy|[#349. Intersection of Two Arrays](intersection-of-two-arrays)|[Easy349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy349.swift)|
+|Easy|[#350. Intersection of Two Arrays II](intersection-of-two-arrays-ii)|[Easy350.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy350.swift)|
 |Easy|[#543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Easy543.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy543.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Easy680.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy680.swift)|
@@ -63,7 +65,6 @@ The leetcode solutions written in swift.
 |Medium|[#309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Medium309.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium309.swift)|
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
 |Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
-|Medium|[#349. Intersection of Two Arrays](intersection-of-two-arrays)|[Medium349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium349.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|
 |Medium|[#518. Coin Change 2]( https://leetcode.com/problems/coin-change-2/)|[Medium518.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium518.swift)|
 |Medium|[#560. Subarray Sum Equals K]( https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Medium560.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium560.swift)|
