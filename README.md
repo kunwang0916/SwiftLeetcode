@@ -10,6 +10,7 @@ The leetcode solutions written in swift.
 |Easy|[#38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Easy38.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy38.swift)|
 |Easy|[#62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Easy62.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy62.swift)|
 |Easy|[#66. Plus One](https://leetcode.com/problems/plus-one/description/)|[Easy66.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy66.swift)|
+|Easy|[#67. Add Binary](https://leetcode.com/problems/add-binary/)|[Easy67.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy67.swift)|
 |Easy|[#69. Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Easy69.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy69.swift)|
 |Easy|[#70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Easy70.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy70.swift)|
 |Easy|[#100. Same Tree](https://leetcode.com/problems/same-tree/)|[Easy100.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy100.swift)|

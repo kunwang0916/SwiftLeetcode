@@ -9,6 +9,20 @@ import XCTest
 @testable import SwiftLeetcode
 
 class EasyTests: XCTestCase {
+    
+    func test67() {
+        let s = Easy67()
+        var a = "1010"
+        var b = "1011"
+        var expected = "10101"
+        XCTAssertEqual(expected, s.addBinary(a, b))
+        
+        a = "11"
+        b = "1"
+        expected = "100"
+        XCTAssertEqual(expected, s.addBinary(a, b))
+    }
+    
     func test88() {
         var n1 = [1, 2, 3, 5, 0, 0, 0, 0]
         let n2 = [3, 7, 8]
