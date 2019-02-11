@@ -36,6 +36,7 @@ The leetcode solutions written in swift.
 |Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
 |Easy|[#970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Easy970.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy970.swift)|
 |Medium|[#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Medium2.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium2.swift)|
+|Medium|[#6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Medium6.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium6.swift)|
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#15. 3Sum](https://leetcode.com/problems/3sum/)|[Medium15.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium15.swift)|
 |Medium|[#17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium17.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium17.swift)|

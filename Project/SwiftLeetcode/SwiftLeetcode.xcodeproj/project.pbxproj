@@ -64,6 +64,7 @@
 		712B03D822057A920033EF7F /* Easy350.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03D722057A920033EF7F /* Easy350.swift */; };
 		712B03DA22057FF90033EF7F /* Medium114.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03D922057FF90033EF7F /* Medium114.swift */; };
 		712B03DC2206C35B0033EF7F /* Easy67.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03DB2206C35B0033EF7F /* Easy67.swift */; };
+		712B03DE2206E64E0033EF7F /* Hard42.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712B03DD2206E64E0033EF7F /* Hard42.swift */; };
 		71365C55208F84DD00AD24A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C54208F84DD00AD24A0 /* AppDelegate.swift */; };
 		71365C57208F84DD00AD24A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C56208F84DD00AD24A0 /* ViewController.swift */; };
 		71365C5A208F84DD00AD24A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71365C58208F84DD00AD24A0 /* Main.storyboard */; };
@@ -84,6 +85,7 @@
 		71365C8F208FCA4500AD24A0 /* Medium672Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C8E208FCA4500AD24A0 /* Medium672Test.swift */; };
 		71365C9120900DB100AD24A0 /* Easy38.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C9020900DB100AD24A0 /* Easy38.swift */; };
 		71365C93209011C100AD24A0 /* Easy38Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71365C92209011C100AD24A0 /* Easy38Test.swift */; };
+		71A301AD2210FC8900CFB988 /* Medium6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A301AC2210FC8900CFB988 /* Medium6.swift */; };
 		71C9EF3E21D4883A006129C9 /* Easy1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF3D21D4883A006129C9 /* Easy1.swift */; };
 		71C9EF4021D48B59006129C9 /* Easy1Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF3F21D48B59006129C9 /* Easy1Test.swift */; };
 		71C9EF4221D493EE006129C9 /* Easy104.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C9EF4121D493EE006129C9 /* Easy104.swift */; };
@@ -211,6 +213,7 @@
 		712B03D722057A920033EF7F /* Easy350.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy350.swift; sourceTree = "<group>"; };
 		712B03D922057FF90033EF7F /* Medium114.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium114.swift; sourceTree = "<group>"; };
 		712B03DB2206C35B0033EF7F /* Easy67.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy67.swift; sourceTree = "<group>"; };
+		712B03DD2206E64E0033EF7F /* Hard42.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard42.swift; sourceTree = "<group>"; };
 		71365C51208F84DD00AD24A0 /* SwiftLeetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71365C54208F84DD00AD24A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71365C56208F84DD00AD24A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -235,6 +238,7 @@
 		71365C8E208FCA4500AD24A0 /* Medium672Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium672Test.swift; sourceTree = "<group>"; };
 		71365C9020900DB100AD24A0 /* Easy38.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy38.swift; sourceTree = "<group>"; };
 		71365C92209011C100AD24A0 /* Easy38Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy38Test.swift; sourceTree = "<group>"; };
+		71A301AC2210FC8900CFB988 /* Medium6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium6.swift; sourceTree = "<group>"; };
 		71C9EF3D21D4883A006129C9 /* Easy1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy1.swift; sourceTree = "<group>"; };
 		71C9EF3F21D48B59006129C9 /* Easy1Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy1Test.swift; sourceTree = "<group>"; };
 		71C9EF4121D493EE006129C9 /* Easy104.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy104.swift; sourceTree = "<group>"; };
@@ -402,8 +406,8 @@
 				71225DDA209150A400385F5D /* Easy26.swift */,
 				71365C9020900DB100AD24A0 /* Easy38.swift */,
 				71C9EF5721D6011A006129C9 /* Easy62.swift */,
-				712B03DB2206C35B0033EF7F /* Easy67.swift */,
 				71225DF2209801EB00385F5D /* Easy66.swift */,
+				712B03DB2206C35B0033EF7F /* Easy67.swift */,
 				71C9EF6F21D8A1B5006129C9 /* Easy69.swift */,
 				71C9EF5321D5F9E0006129C9 /* Easy70.swift */,
 				712B03D3220439DE0033EF7F /* Easy88.swift */,
@@ -427,10 +431,10 @@
 				712B03CD2202ED640033EF7F /* Easy680.swift */,
 				71C9EF6121D69D6C006129C9 /* Easy746.swift */,
 				71365C75208F85FA00AD24A0 /* Easy771.swift */,
-				71C9EF6321D752B2006129C9 /* Medium63.swift */,
 				71C9EF6921D8661F006129C9 /* Easy965.swift */,
 				71C9EF7721E1A397006129C9 /* Easy970.swift */,
 				712B03C322015D420033EF7F /* Medium2.swift */,
+				71A301AC2210FC8900CFB988 /* Medium6.swift */,
 				71F9AABF209D60BA008E59F6 /* Medium11.swift */,
 				712B03CB2202E1400033EF7F /* Medium15.swift */,
 				71F9AAC7209D7246008E59F6 /* Medium17.swift */,
@@ -442,6 +446,7 @@
 				71225DFE2098605000385F5D /* Medium48.swift */,
 				71F9AAB7209C2D16008E59F6 /* Medium49.swift */,
 				71F9AACF209D8202008E59F6 /* Medium56.swift */,
+				71C9EF6321D752B2006129C9 /* Medium63.swift */,
 				71225DE62091AEED00385F5D /* Medium64.swift */,
 				71225DDE2091562900385F5D /* Medium74.swift */,
 				71225E022098D68E00385F5D /* Medium75.swift */,
@@ -479,6 +484,7 @@
 				71C9EF6721D77438006129C9 /* Candies.swift */,
 				71C9EF7F21E93636006129C9 /* Demo.swift */,
 				71225DEE2097FDB600385F5D /* Hard41.swift */,
+				712B03DD2206E64E0033EF7F /* Hard42.swift */,
 				712B039B21EDC7DF0033EF7F /* Hard135.swift */,
 				712B03C12200395D0033EF7F /* Hard301.swift */,
 				712B03A921F4242C0033EF7F /* Hard980.swift */,
@@ -616,6 +622,7 @@
 				71C9EF4E21D4B720006129C9 /* Medium684.swift in Sources */,
 				71225DE32091977A00385F5D /* Medium240.swift in Sources */,
 				71C9EF4A21D4A0B5006129C9 /* Easy101.swift in Sources */,
+				71A301AD2210FC8900CFB988 /* Medium6.swift in Sources */,
 				71225DDB209150A400385F5D /* Easy26.swift in Sources */,
 				71225DEB2091B55200385F5D /* Medium215.swift in Sources */,
 				71F9AADE209F8267008E59F6 /* Medium139.swift in Sources */,
@@ -653,6 +660,7 @@
 				71C9EF6421D752B2006129C9 /* Medium63.swift in Sources */,
 				71C9EF5221D5F61D006129C9 /* Medium98.swift in Sources */,
 				712B03CC2202E1400033EF7F /* Medium15.swift in Sources */,
+				712B03DE2206E64E0033EF7F /* Hard42.swift in Sources */,
 				712B03D0220424240033EF7F /* Medium253.swift in Sources */,
 				71365C9120900DB100AD24A0 /* Easy38.swift in Sources */,
 				71F9AAB4209C1BB6008E59F6 /* Medium416.swift in Sources */,

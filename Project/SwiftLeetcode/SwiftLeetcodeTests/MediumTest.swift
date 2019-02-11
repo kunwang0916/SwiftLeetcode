@@ -11,6 +11,31 @@ import XCTest
 
 class MediumTest: XCTestCase {
 
+    func test6() {
+        
+        let s = Medium6()
+        var str = ""
+        var expected = ""
+        var row = 1
+        
+        str = "AB"
+        expected = "AB"
+        row = 1
+        XCTAssertEqual(expected, s.convert(str, row))
+        row = 2
+        XCTAssertEqual(expected, s.convert(str, row))
+        
+        str = "PAYPALISHIRING"
+        expected = "PAHNAPLSIIGYIR"
+        row = 3
+        XCTAssertEqual(expected, s.convert(str, row))
+        expected = "PINALSIGYAHRPI"
+        row = 4
+        XCTAssertEqual(expected, s.convert(str, row))
+        
+        
+    }
+    
     func test15() {
         let nums = [-1, 0, 1, 2, -1, -4]
         _ = Medium15.threeSum(nums)
