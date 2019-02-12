@@ -81,6 +81,8 @@ The leetcode solutions written in swift.
 |Medium|[#967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Medium967.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium967.swift)|
 |Medium|[#979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Medium979.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium979.swift)|
 |Medium|[#983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Medium983.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium983.swift)|
+|Medium|[#990. Satisfiability of Equality Equations]( https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Medium990.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium990.swift)|
+|Medium|[#991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Medium991.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium991.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
 |Hard|[#301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Hard301.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard301.swift)|

@@ -32,8 +32,6 @@ class MediumTest: XCTestCase {
         expected = "PINALSIGYAHRPI"
         row = 4
         XCTAssertEqual(expected, s.convert(str, row))
-        
-        
     }
     
     func test15() {
@@ -131,6 +129,43 @@ class MediumTest: XCTestCase {
         costs = [3,14,50]
         expected = 50
         XCTAssertEqual(expected, Medium983.mincostTickets(days, costs))
+    }
+    
+    func test990() {
+        var input = [
+            "a==b",
+            "b!=a",
+        ]
+        var expected = false
+        let s = Medium990()
+        XCTAssertEqual(expected, s.equationsPossible(input))
+        
+        input = [
+            "b==a",
+            "a==b"
+        ]
+        expected = true
+        XCTAssertEqual(expected, s.equationsPossible(input))
+        
+        input = [
+            "b==a",
+            "b==c",
+            "a==c"
+        ]
+        expected = true
+        XCTAssertEqual(expected, s.equationsPossible(input))
+        
+        input = [
+            "a==b","b!=c","c==a"
+        ]
+        expected = false
+        XCTAssertEqual(expected, s.equationsPossible(input))
+        
+        input = [
+            "c==c","b==d","x!=z"
+        ]
+        expected = true
+        XCTAssertEqual(expected, s.equationsPossible(input))
     }
     
     func test46()  {
