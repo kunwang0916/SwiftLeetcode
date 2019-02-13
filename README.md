@@ -23,6 +23,7 @@ The leetcode solutions written in swift.
 |Easy|[#169. Majority Element](https://leetcode.com/problems/majority-element/)|[Easy169.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy169.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
 |Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
+|Easy|[#242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Easy242.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy242.swift)|
 |Easy|[#252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Easy252.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy252.swift)|
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|

@@ -31,6 +31,17 @@ class EasyTests: XCTestCase {
         XCTAssertEqual(expected, n1)
     }
     
+    func test242() {
+        let e = Easy242()
+        var s = "anagram"
+        var t = "nagaram"
+        XCTAssertEqual(true, e.isAnagram(s, t))
+        
+        s = "rat"
+        t = "car"
+        XCTAssertEqual(false, e.isAnagram(s, t))
+    }
+    
     func test257() {
         let t = TreeNode(1)
         let t2 = TreeNode(2)
