@@ -26,8 +26,9 @@ The leetcode solutions written in swift.
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
 |Easy|[#283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Easy283.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy283.swift)|
-|Easy|[#349. Intersection of Two Arrays](intersection-of-two-arrays)|[Easy349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy349.swift)|
-|Easy|[#350. Intersection of Two Arrays II](intersection-of-two-arrays-ii)|[Easy350.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy350.swift)|
+|Easy|[#339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Easy339.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy339.swift)|
+|Easy|[#349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Easy349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy349.swift)|
+|Easy|[#350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Easy350.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy350.swift)|
 |Easy|[#543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Easy543.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy543.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Easy680.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy680.swift)|
