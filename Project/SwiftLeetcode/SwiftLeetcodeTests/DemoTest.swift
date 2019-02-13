@@ -22,5 +22,27 @@ class DemoTest: XCTestCase {
         XCTAssertEqual(9999, Demo.stringToNum("9999"))
         XCTAssertEqual(-333, Demo.stringToNum("-333"))
     }
+    
+    func testSuperIterator() {
+        let array:[Any] = [[-3], [-2, -1], 1 , 2, [3, 4, [5, 6, 7]], 8, 9]
+        
+        var s = SuperIterator(array)
+        
+        let e1 = s.next() as! Int
+        XCTAssertEqual(-3, e1)
+        let e2 = s.next() as! Int
+        XCTAssertEqual(-2, e2)
+        let e3 = s.next() as! Int
+        XCTAssertEqual(-1, e3)
+        let left = s.all() as! [Int]
+        XCTAssertEqual([1, 2, 3, 4, 5, 6, 7, 8, 9], left)
+        
+        let strArray:[Any] = ["hello", ["world"], ["swift", "rocks"], "yeah"]
+        var strIterator = SuperIterator(strArray)
+        let firstStr = strIterator.next() as! String
+        XCTAssertEqual("hello", firstStr)
+        let flatStrs = strIterator.all() as! [String]
+        XCTAssertEqual(["world", "swift", "rocks", "yeah"], flatStrs)
+    }
 
 }
