@@ -52,4 +52,12 @@ class EasyTests: XCTestCase {
         let s = Easy257()
         print(s.binaryTreePaths(t))
     }
+    
+    func test733 () {
+        let image = [[1,1,1],[1,1,0],[1,0,1]]
+        let sr = 1, sc = 1, newColor = 2
+        let expected = [[2,2,2],[2,2,0],[2,0,1]]
+        let s = Easy733()
+        XCTAssertEqual(expected, s.floodFill(image, sr, sc, newColor))
+    }
 }
