@@ -37,6 +37,9 @@
 import UIKit
 
 class Easy339: NSObject {
+    /*
+    //comment out since we don't have the code of NestedInteger
+     
     func depthSum(_ nestedList: [NestedInteger]) -> Int {
         return depthSum(nestedList, 1)
     }
@@ -57,4 +60,5 @@ class Easy339: NSObject {
         
         return sum
     }
+    */
 }
