@@ -27,6 +27,7 @@ The leetcode solutions written in swift.
 |Easy|[#252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Easy252.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy252.swift)|
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
+|Easy|[#270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Easy270.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy270.swift)|
 |Easy|[#283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Easy283.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy283.swift)|
 |Easy|[#339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Easy339.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy339.swift)|
 |Easy|[#349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Easy349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy349.swift)|
@@ -40,6 +41,7 @@ The leetcode solutions written in swift.
 |Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
 |Easy|[#970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Easy970.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy970.swift)|
 |Medium|[#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Medium2.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium2.swift)|
+|Medium|[#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Medium3.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium3.swift)|
 |Medium|[#6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Medium6.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium6.swift)|
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#15. 3Sum](https://leetcode.com/problems/3sum/)|[Medium15.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium15.swift)|
