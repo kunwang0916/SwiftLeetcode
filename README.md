@@ -63,6 +63,7 @@ The leetcode solutions written in swift.
 |Medium|[#114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Medium114.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium114.swift)|
 |Medium|[#139. Word Break](https://leetcode.com/problems/word-break/)|[Medium139.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium139.swift)|
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
+|Medium|[#161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium161.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium161.swift)|
 |Medium|[#200. Number of Islands]( https://leetcode.com/problems/number-of-islands/description/)|[Medium200.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium200.swift)|
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|

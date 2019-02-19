@@ -17,20 +17,23 @@ import UIKit
 
 class Medium3: NSObject {
     func lengthOfLongestSubstring(_ s: String) -> Int {
-        var map = [Character: Int]()
+        var visited = Set<Character>()
         let n = s.count
         var step = 0
         var i = 0
         var j = 0
         
-        while j < n {
+        while j < n && i < n {
             let jc = charAt(s, j)
-            if let index = map[jc] {
-                i = max(index, i)
+            if visited.contains(jc) {
+                let ic = charAt(s, i)
+                visited.remove(ic)
+                i += 1
+            } else {
+                visited.insert(jc)
+                j += 1
+                step = max(step, j-i)
             }
-            step = max(step, j-i+1)
-            j += 1
-            map[jc] = j
         }
         return step
     }

@@ -5,6 +5,10 @@
 //  Created by roosky on 1/15/19.
 //  Copyright © 2019 K W. All rights reserved.
 //
+/**
+ 161. One Edit Distance
+https://leetcode.com/problems/one-edit-distance/
+ **/
 
 import XCTest
 @testable import SwiftLeetcode
@@ -37,6 +41,34 @@ class MediumTest: XCTestCase {
     func test15() {
         let nums = [-1, 0, 1, 2, -1, -4]
         _ = Medium15.threeSum(nums)
+    }
+    
+    func test161() {
+        var s = ""
+        var t = ""
+        let m = Medium161()
+        var expected = false
+        XCTAssertEqual(expected, m.isOneEditDistance(s, t))
+    
+        s = "ab"
+        t = "cab"
+        expected = true
+        XCTAssertEqual(expected, m.isOneEditDistance(s, t))
+        
+        s = "c"
+        t = ""
+        expected = true
+        XCTAssertEqual(expected, m.isOneEditDistance(s, t))
+        
+        s = "c"
+        t = "c"
+        expected = false
+        XCTAssertEqual(expected, m.isOneEditDistance(s, t))
+        
+        s = "ab"
+        t = "acb"
+        expected = true
+        XCTAssertEqual(expected, m.isOneEditDistance(s, t))
     }
     
     
