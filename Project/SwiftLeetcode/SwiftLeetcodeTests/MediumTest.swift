@@ -43,6 +43,26 @@ class MediumTest: XCTestCase {
         _ = Medium15.threeSum(nums)
     }
     
+    func test50() {
+        var expected: Double
+        var x: Double
+        var n: Int
+        var result: Double
+        let s = Medium50()
+        
+        expected = Double(1024)
+        x = Double(2)
+        n = 10
+        result = s.myPow(x, n)
+        XCTAssertTrue(expected.isEqual(to: result))
+
+        expected = Double(0.250)
+        x = Double(2)
+        n = -2
+        result = s.myPow(x, n)
+        XCTAssertTrue(expected.isEqual(to: result))
+    }
+    
     func test161() {
         var s = ""
         var t = ""

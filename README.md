@@ -53,6 +53,7 @@ The leetcode solutions written in swift.
 |Medium|[#47. Permutations](https://leetcode.com/problems/permutations-ii/)|[Medium47.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium47.swift)|
 |Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
 |Medium|[#49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Medium49.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium49.swift)|
+|Medium|[#50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Medium50.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium50.swift)|
 |Medium|[#56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Medium56.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium56.swift)|
 |Medium|[#63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Medium63.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium63.swift)|
 |Medium|[#64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Medium64.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium64.swift)|
