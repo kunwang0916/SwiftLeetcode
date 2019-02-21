@@ -91,6 +91,34 @@ class MediumTest: XCTestCase {
         XCTAssertEqual(expected, m.isOneEditDistance(s, t))
     }
     
+    func test208() {
+        let t = Trie()
+        t.insert("snap")
+        t.insert("snapchat")
+        
+        var result:[String]
+        var expected:[String]
+        result = t.findWords("s")
+        expected = ["snap", "snapchat"]
+        XCTAssertEqual(expected, result)
+        
+        result = t.findWords("snapc")
+        expected = ["snapchat"]
+        XCTAssertEqual(expected, result)
+    
+        result = t.findWords("facebook")
+        expected = []
+        XCTAssertEqual(expected, result)
+        
+        t.insert("go")
+        result = t.findWords("google")
+        expected = []
+        XCTAssertEqual(expected, result)
+        
+        result = t.findWords("g")
+        expected = ["go"]
+        XCTAssertEqual(expected, result)
+    }
     
     func test253() {
         var intervals = [Interval(0, 30), Interval(5, 10), Interval(15, 20)]
