@@ -42,6 +42,7 @@ The leetcode solutions written in swift.
 |Easy|[#970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Easy970.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy970.swift)|
 |Medium|[#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Medium2.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium2.swift)|
 |Medium|[#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Medium3.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium3.swift)|
+|Medium|[#5. Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/)|[Medium5.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium5.swift)|
 |Medium|[#6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Medium6.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium6.swift)|
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#15. 3Sum](https://leetcode.com/problems/3sum/)|[Medium15.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium15.swift)|
