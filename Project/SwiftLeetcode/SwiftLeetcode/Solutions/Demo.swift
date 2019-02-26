@@ -45,4 +45,58 @@ public class Demo: NSObject {
         }
         return num
     }
+    
+    public class func int2binary(_ num: Int) -> String {
+        var s = ""
+        var n = num;
+        while n > 0 {
+            s = String(n % 2) + s
+            n = n / 2
+        }
+        return s
+    }
+    
+    public class func minSubStr(_ s:String) -> String {
+        var result = s
+        var charSet = Set<Character>()
+        
+        for c in s {
+            charSet.insert(c)
+        }
+        
+        let maxCharaNum = charSet.count
+        let n = s.count
+        let sArray = Array(s)
+        var from = 0, to = 0
+        var charCount = [Character: Int]()
+        while from < n && to < n {
+            if from < n - 1 && sArray[from] == sArray[from + 1] {
+                charCount[sArray[from]] = (charCount[sArray[from]] ?? 0 ) - 1
+                if charCount[sArray[from]]! < 1 {
+                    charCount[sArray[from]] = nil
+                }
+                from += 1
+                to = max(from, to)
+                continue
+            }
+            
+            while to < n && charCount.keys.count < maxCharaNum {
+                charCount[sArray[to]] = (charCount[sArray[to]] ?? 0) + 1
+                to += 1
+            }
+            
+            if to < n && to - from < result.count && charCount.keys.count == maxCharaNum {
+                result = String(sArray[from..<to])
+            }
+            
+            charCount[sArray[from]] = (charCount[sArray[from]]!) - 1
+            if charCount[sArray[from]]! < 1 {
+                charCount[sArray[from]] = nil
+            }
+            from += 1
+            to = max(from, to)
+        }
+        
+        return result
+    }
 }

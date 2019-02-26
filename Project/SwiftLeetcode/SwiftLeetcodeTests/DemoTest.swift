@@ -44,5 +44,23 @@ class DemoTest: XCTestCase {
         let flatStrs = strIterator.all() as! [String]
         XCTAssertEqual(["world", "swift", "rocks", "yeah"], flatStrs)
     }
+    
+    func testInt2Binary() {
+        XCTAssertEqual("101", Demo.int2binary(5))
+        XCTAssertEqual("110", Demo.int2binary(6))
+        XCTAssertEqual("1101", Demo.int2binary(13))
+    }
+    
+    func testMiniSubString() {
+        var s = "acbbsab"
+        var expected = ["acbbs", "cbbsa"]
+        var result = Demo.minSubStr(s)
+        XCTAssertTrue(expected.contains(result))
+        
+        s = "aaaabbbbbcacccc"
+        expected = ["bca"]
+        result = Demo.minSubStr(s)
+        XCTAssertTrue(expected.contains(result))
+    }
 
 }
