@@ -63,6 +63,32 @@ class MediumTest: XCTestCase {
         XCTAssertTrue(expected.isEqual(to: result))
     }
     
+    func test54() {
+        var input = [
+            [ 1, 2, 3 ],
+            [ 4, 5, 6 ],
+            [ 7, 8, 9 ]
+        ]
+        var expected = [1,2,3,6,9,8,7,4,5]
+        let s = Medium54()
+        XCTAssertEqual(expected, s.spiralOrder(input))
+        
+        input = [
+            [1, 2, 3, 4],
+            [5, 6, 7, 8],
+            [9,10,11,12]
+        ]
+        expected = [1,2,3,4,8,12,11,10,9,5,6,7]
+        XCTAssertEqual(expected, s.spiralOrder(input))
+        
+        input = [
+            [3],
+            [2]
+        ]
+        expected = [3, 2]
+        XCTAssertEqual(expected, s.spiralOrder(input))
+    }
+    
     func test161() {
         var s = ""
         var t = ""
