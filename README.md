@@ -23,6 +23,7 @@ The leetcode solutions written in swift.
 |Easy|[#122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Easy122.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy122.swift)|
 |Easy|[#169. Majority Element](https://leetcode.com/problems/majority-element/)|[Easy169.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy169.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
+|Easy|[#203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Easy203.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy203.swift)|
 |Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
 |Easy|[#242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Easy242.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy242.swift)|
 |Easy|[#252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Easy252.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy252.swift)|
