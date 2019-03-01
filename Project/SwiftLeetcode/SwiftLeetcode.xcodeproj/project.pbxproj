@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		711E6B152228F1A300074DDC /* Medium113.swift in Sources */ = {isa = PBXBuildFile; fileRef = 711E6B142228F1A300074DDC /* Medium113.swift */; };
 		71225DD72090E6A300385F5D /* Medium560.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71225DD62090E6A300385F5D /* Medium560.swift */; };
 		71225DD92091364800385F5D /* Medium560Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71225DD82091364800385F5D /* Medium560Test.swift */; };
 		71225DDB209150A400385F5D /* Easy26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71225DDA209150A400385F5D /* Easy26.swift */; };
@@ -176,6 +177,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		711E6B142228F1A300074DDC /* Medium113.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium113.swift; sourceTree = "<group>"; };
 		71225DD62090E6A300385F5D /* Medium560.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium560.swift; sourceTree = "<group>"; };
 		71225DD82091364800385F5D /* Medium560Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium560Test.swift; sourceTree = "<group>"; };
 		71225DDA209150A400385F5D /* Easy26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy26.swift; sourceTree = "<group>"; };
@@ -503,6 +505,7 @@
 				71225E022098D68E00385F5D /* Medium75.swift */,
 				712B03BB22000BC10033EF7F /* Medium78.swift */,
 				71C9EF5121D5F61D006129C9 /* Medium98.swift */,
+				711E6B142228F1A300074DDC /* Medium113.swift */,
 				712B03D922057FF90033EF7F /* Medium114.swift */,
 				71F9AADD209F8267008E59F6 /* Medium139.swift */,
 				71F9AAAD209C0BB5008E59F6 /* Medium148.swift */,
@@ -759,6 +762,7 @@
 				712B03B621FEE1280033EF7F /* Easy257.swift in Sources */,
 				71225DDF2091562900385F5D /* Medium74.swift in Sources */,
 				71F9AAC4209D659C008E59F6 /* Medium200.swift in Sources */,
+				711E6B152228F1A300074DDC /* Medium113.swift in Sources */,
 				71392E462216B4D200F461D1 /* Easy270.swift in Sources */,
 				71365C81208FA9CB00AD24A0 /* TreeNode.swift in Sources */,
 				71B10B1B2213F0FF00A08E48 /* SuperIterator.swift in Sources */,
