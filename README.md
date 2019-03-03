@@ -102,6 +102,7 @@ The leetcode solutions written in swift.
 |Medium|[#1004. Max Consecutive Ones III](https://leetcode.com/problems//max-consecutive-ones-iii/)|[Medium1004.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1004.swift)|
 |Hard|[#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Hard10.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard10.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
+|Hard|[#124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Hard124.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard124.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
 |Hard|[#301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Hard301.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard301.swift)|
 |Hard|[#980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Hard980.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard980.swift)|
