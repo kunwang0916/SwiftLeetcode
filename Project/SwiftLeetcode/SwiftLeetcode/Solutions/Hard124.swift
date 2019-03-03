@@ -15,12 +15,11 @@ https://leetcode.com/problems/binary-tree-maximum-path-sum/
 **/
 
 class Hard124: NSObject {
-    var maxSum = 0
+    var maxSum = Int.min
     func maxPathSum(_ root: TreeNode?) -> Int {
-        guard let r = root else {
+        if root == nil {
             return 0
         }
-        maxSum = r.val
         _ = dfs(root);
         return maxSum;
     }
@@ -30,24 +29,11 @@ class Hard124: NSObject {
             return 0
         }
         
-        let leftMaxSum = dfs(r.left)
-        let rightMaxSum = dfs(r.right)
-        
-        var sumNode = r.val
-        if leftMaxSum > 0 {
-            sumNode += leftMaxSum
-        }
-        
-        if rightMaxSum > 0 {
-            sumNode += rightMaxSum
-        }
-        
+        let leftMaxSum = max(dfs(r.left), 0)
+        let rightMaxSum = max(dfs(r.right), 0)
+        let sumNode = r.val + leftMaxSum + rightMaxSum;
         self.maxSum = max(sumNode, self.maxSum)
         
-        if leftMaxSum < 0 && rightMaxSum < 0 {
-            return r.val
-        } else {
-            return max(leftMaxSum, rightMaxSum) + r.val
-        }
+        return max(leftMaxSum, rightMaxSum) + r.val
     }
 }
