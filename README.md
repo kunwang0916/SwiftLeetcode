@@ -99,6 +99,7 @@ The leetcode solutions written in swift.
 |Medium|[#990. Satisfiability of Equality Equations]( https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Medium990.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium990.swift)|
 |Medium|[#991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Medium991.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium991.swift)|
 |Medium|[#998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Medium998.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium998.swift)|
+|Medium|[#1004. Max Consecutive Ones III](https://leetcode.com/problems//max-consecutive-ones-iii/)|[Medium1004.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1004.swift)|
 |Hard|[#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Hard10.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard10.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|

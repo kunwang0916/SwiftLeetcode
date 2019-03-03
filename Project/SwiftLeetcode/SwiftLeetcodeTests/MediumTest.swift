@@ -282,4 +282,17 @@ class MediumTest: XCTestCase {
         nums = []
         print(s.permute(nums))
     }
+    
+    func test1004()  {
+        var nums = [1,1,1,0,0,0,1,1,1,1,0]
+        var k = 2
+        var expect = 6
+        let s = Medium1004()
+        XCTAssertEqual(expect, s.longestOnes(nums, k))
+        
+        nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1]
+        k = 3
+        expect = 10
+        XCTAssertEqual(expect, s.longestOnes(nums, k))
+    }
 }
