@@ -66,6 +66,7 @@ The leetcode solutions written in swift.
 |Medium|[#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Medium98.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium98.swift)|
 |Medium|[#113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Medium113.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium113.swift)|
 |Medium|[#114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Medium114.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium114.swift)|
+|Medium|[#129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Medium129.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium129.swift)|
 |Medium|[#139. Word Break](https://leetcode.com/problems/word-break/)|[Medium139.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium139.swift)|
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
 |Medium|[#161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium161.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium161.swift)|
