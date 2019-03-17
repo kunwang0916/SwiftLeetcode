@@ -295,4 +295,23 @@ class MediumTest: XCTestCase {
         expect = 10
         XCTAssertEqual(expect, s.longestOnes(nums, k))
     }
+    
+    func test1014()  {
+        var weights = [1,2,3,4,5,6,7,8,9,10]
+        var D = 5
+        var expect = 15
+        let s = Medium1014()
+        XCTAssertEqual(expect, s.shipWithinDays(weights, D))
+        
+        weights =  [3,2,2,4,1,4]
+        D = 3
+        expect = 6
+        XCTAssertEqual(expect, s.shipWithinDays(weights, D))
+        
+        weights =  [1,2,3,1,1]
+        D = 4
+        expect = 3
+        XCTAssertEqual(expect, s.shipWithinDays(weights, D))
+    }
+    
 }

@@ -60,4 +60,20 @@ class EasyTests: XCTestCase {
         let s = Easy733()
         XCTAssertEqual(expected, s.floodFill(image, sr, sc, newColor))
     }
+    
+    func test1005()  {
+        let s = Easy1005()
+        XCTAssertEqual(20, s.largestSumAfterKNegations([5,6,9,-3,3], 2))
+        XCTAssertEqual(6, s.largestSumAfterKNegations([3,-1,0,2], 3))
+        XCTAssertEqual(13, s.largestSumAfterKNegations([2, -3, -1, 5, -4], 2))
+        XCTAssertEqual(5, s.largestSumAfterKNegations([4, 2, 3], 1))
+        
+    }
+    
+    func test1012() {
+        let s = Easy1012()
+        XCTAssertEqual(5, s.bitwiseComplement(10))
+        XCTAssertEqual(2, s.bitwiseComplement(5))
+        XCTAssertEqual(0, s.bitwiseComplement(7))
+    }
 }
