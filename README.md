@@ -91,6 +91,7 @@ The leetcode solutions written in swift.
 |Medium|[#560. Subarray Sum Equals K]( https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Medium560.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium560.swift)|
 |Medium|[#654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Medium654.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium654.swift)|
 |Medium|[#672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)|[Medium672.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium672.swift)|
+|Medium|[#695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Medium695.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium695.swift)|
 |Medium|[#807. Max Increase to Keep City Skylinee](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|[Medium807.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium807.swift)|
 |Medium|[#814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Medium814.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium814.swift)|
 |Medium|[#845. Longest Mountain in Array](https://leetcode.com/problems/binary-tree-pruning/)|[Medium845.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium845.swift)|
