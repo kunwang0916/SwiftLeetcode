@@ -43,6 +43,15 @@ class MediumTest: XCTestCase {
         _ = Medium15.threeSum(nums)
     }
     
+    func test39() {
+        let candidates = [2,3,6,7]
+        let target = 7
+        let expected = [[2, 2, 3], [7]]
+        let s = Medium39()
+        XCTAssertEqual(expected, s.combinationSum(candidates, target))
+    }
+    
+    
     func test50() {
         var expected: Double
         var x: Double

@@ -46,6 +46,8 @@ The leetcode solutions written in swift.
 |Easy|[#1012. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Easy1012.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1012.swift)|
 |Easy|[#1020. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Easy1020.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1020.swift)|
 |Easy|[#1013. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[Easy1013.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1013.swift)|
+|Easy|[#1018. 1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/
+)|[Easy1018.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1018.swift)|
 |Medium|[#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Medium2.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium2.swift)|
 |Medium|[#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Medium3.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium3.swift)|
 |Medium|[#5. Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/)|[Medium5.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium5.swift)|
@@ -107,6 +109,7 @@ The leetcode solutions written in swift.
 |Medium|[#998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Medium998.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium998.swift)|
 |Medium|[#1004. Max Consecutive Ones III](https://leetcode.com/problems//max-consecutive-ones-iii/)|[Medium1004.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1004.swift)|
 |Medium|[#1014. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[Medium1014.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1014.swift)|
+|Medium|[#1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)|[Medium1020.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1020.swift)|
 |Medium|[#1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[Medium1021.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1021.swift)|
 |Hard|[#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Hard10.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard10.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
