@@ -112,6 +112,7 @@ The leetcode solutions written in swift.
 |Medium|[#1014. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[Medium1014.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1014.swift)|
 |Medium|[#1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)|[Medium1020.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1020.swift)|
 |Medium|[#1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[Medium1021.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1021.swift)|
+|Medium|[#1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Medium1026.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1026.swift)|
 |Hard|[#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Hard10.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard10.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Hard124.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard124.swift)|
