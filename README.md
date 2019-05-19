@@ -44,10 +44,11 @@ The leetcode solutions written in swift.
 |Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
 |Easy|[#970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Easy970.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy970.swift)|
 |Easy|[#1012. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Easy1012.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1012.swift)|
-|Easy|[#1020. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Easy1020.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1020.swift)|
 |Easy|[#1013. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[Easy1013.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1013.swift)|
-|Easy|[#1018. 1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/
-)|[Easy1018.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1018.swift)|
+|Easy|[#1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Easy1018.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1018.swift)|
+|Easy|[#1020. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Easy1020.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1020.swift)|
+|Easy|[#1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Easy1021.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1021.swift)|
+|Easy|[#1022. Sum of Root To Leaf Binary Numbers](sum-of-root-to-leaf-binary-numbers/)|[Easy1022.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1022.swift)|
 |Medium|[#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Medium2.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium2.swift)|
 |Medium|[#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Medium3.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium3.swift)|
 |Medium|[#5. Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/)|[Medium5.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium5.swift)|
