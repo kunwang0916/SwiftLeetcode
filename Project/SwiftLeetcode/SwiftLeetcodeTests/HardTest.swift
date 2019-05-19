@@ -39,8 +39,8 @@ class HardTest: XCTestCase {
     
     func test42() {
         let s = Hard42()
-        var input = [0,1,0,2,1,0,1,3,2,1,2,1]
-        var expected = 6
+        let input = [0,1,0,2,1,0,1,3,2,1,2,1]
+        let expected = 6
         XCTAssertEqual(expected, s.trap(input))
     }
     

@@ -39,12 +39,17 @@ public class Medium990: NSObject {
     }
     
     func findParent(_ c: Character) -> Character {
+        var result:Character
         if self.parents[c] == nil {
             self.parents[c] = c
+            result = c
         } else if c != self.parents[c] {
-            parents[c] = findParent(parents[c] as Character!);
+            if let pc = parents[c] {
+                parents[c] = findParent();
+                result = c
+            }
         }
-        return self.parents[c] as Character!
+        return result
     }
     
     func charAt(_ s: String, _ i: Int) -> Character {

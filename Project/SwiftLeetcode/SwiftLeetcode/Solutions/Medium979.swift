@@ -11,7 +11,7 @@ import UIKit
 public class Medium979: NSObject {
     var result = 0
     func distributeCoins(_ root: TreeNode?) -> Int {
-        self.dfs(root)
+        _ = self.dfs(root)
         return self.result
     }
     
