@@ -28,11 +28,42 @@ public class Medium200: NSObject {
             for col in 0..<width {
                 if tGrid[row][col] == "1" {
                     result += 1
-                    dfs(&tGrid, row, col, height, width)
+                    bfs(&tGrid, row, col, height, width)
                 }
             }
         }
         return result;
+    }
+    
+    public class func isPointValid(_ grid: inout [[Character]], _ row:Int, _ col:Int, _ rows: Int, _ cols: Int) -> Bool {
+        if row < 0 || row >= rows || col < 0 || col >= cols {
+            return false
+        }
+        
+        if grid[row][col] != "1" {
+            return false
+        }
+        
+        return true
+    }
+    
+    public class func bfs(_ grid: inout [[Character]], _ row:Int, _ col:Int, _ rows: Int, _ cols: Int) {
+        var queue = [[Int]]()
+        queue.append([row, col])
+        while let point = queue.first {
+            let row = point[0]
+            let col = point[1]
+            grid[row][col] = Character("3")
+            queue.removeFirst()
+            let neighbors:[[Int]] = [[row+1, col], [row-1, col], [row, col+1], [row, col-1]]
+            for np in neighbors {
+                let nr = np[0]
+                let nc = np[1]
+                if isPointValid(&grid, nr, nc, rows, cols) {
+                    queue.append([nr, nc])
+                }
+            }
+        }
     }
     
     class func dfs(_ grid: inout [[Character]], _ row:Int, _ col:Int, _ height: Int, _ width: Int) {
