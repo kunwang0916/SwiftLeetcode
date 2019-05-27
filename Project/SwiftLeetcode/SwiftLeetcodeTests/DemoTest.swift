@@ -62,5 +62,19 @@ class DemoTest: XCTestCase {
         result = Demo.minSubStr(s)
         XCTAssertTrue(expected.contains(result))
     }
+    
+    func testHard41() {
+        var input = [1,2,0]
+        var expected = 3
+        XCTAssertEqual(expected, Hard41.firstMissingPositive(input))
+        
+        input =  [3,4,-1,1]
+        expected = 2
+        XCTAssertEqual(expected, Hard41.firstMissingPositive(input))
+        
+        input = [7,8,9,11,12]
+        expected = 1
+        XCTAssertEqual(expected, Hard41.firstMissingPositive(input))
+    }
 
 }
