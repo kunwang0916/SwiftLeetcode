@@ -78,6 +78,7 @@ The leetcode solutions written in swift.
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
 |Medium|[#161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Medium161.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium161.swift)|
 |Medium|[#200. Number of Islands]( https://leetcode.com/problems/number-of-islands/description/)|[Medium200.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium200.swift)|
+|Medium|[#207. Course Schedule]( https://leetcode.com/problems/course-schedule/)|[Medium207.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium207.swift)|
 |Medium|[#208. Implement Trie (Prefix Tree)]( https://leetcode.com/problems/implement-trie-prefix-tree/)|[Medium208.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium208.swift)|
 |Medium|[#215. Kth Largest Element in an Array](https://leetcode.com/problems/summary-ranges/description/)|[Medium215.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium215.swift)|
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
