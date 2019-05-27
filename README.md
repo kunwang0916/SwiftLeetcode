@@ -117,6 +117,7 @@ The leetcode solutions written in swift.
 |Medium|[#1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Medium1026.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1026.swift)|
 |Hard|[#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Hard10.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard10.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
+|Hard|[#42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Hard42.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard42.swift)|
 |Hard|[#124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Hard124.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard124.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
 |Hard|[#301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Hard301.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard301.swift)|

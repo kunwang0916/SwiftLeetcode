@@ -6,28 +6,38 @@
 //  Copyright © 2019 K W. All rights reserved.
 //
 
+/**
+ https://leetcode.com/problems/trapping-rain-water/
+ 42. Trapping Rain Water
+ Time: O(N)
+ space: O(1)
+ **/
+
 import UIKit
 
 public class Hard42: NSObject {
     func trap(_ height: [Int]) -> Int {
-        // TODO: unsolved
-        if height.count < 3 {
-            return 0
-        }
-        
+        var leftMax = 0
+        var rightMax = 0
+        var leftIndex = 0
+        var rightIndex = height.count - 1
         var sum = 0
-        for i in 0...height.count-2 {
-            if height[i] == 0 || height[i+1] >= height[i] {
-                continue
-            }
-            
-            for j in (i+1)..<height.count {
-                if height[j] >= height[i] {
-                    sum += j - i - 1
-                    break
+        while (leftIndex < rightIndex) {
+            if height[leftIndex] < height[rightIndex] {
+                if height[leftIndex] > leftMax {
+                    leftMax = height[leftIndex]
+                } else {
+                    sum += leftMax - height[leftIndex]
                 }
+                leftIndex += 1
+            } else {
+                if height[rightIndex] > rightMax {
+                    rightMax = height[rightIndex]
+                } else {
+                    sum += rightMax - height[rightIndex]
+                }
+                rightIndex -= 1
             }
-            
         }
         
         return sum;
