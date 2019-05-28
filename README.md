@@ -56,6 +56,7 @@ The leetcode solutions written in swift.
 |Medium|[#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Medium11.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium11.swift)|
 |Medium|[#15. 3Sum](https://leetcode.com/problems/3sum/)|[Medium15.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium15.swift)|
 |Medium|[#17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Medium17.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium17.swift)|
+|Medium|[#18. 4Sum](https://leetcode.com/problems/4sum/)|[Medium18.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium18.swift)|
 |Medium|[#19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium19.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium19.swift)|
 |Medium|[#33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)]|[Medium33.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium33.swift)|
 |Medium|[#34. Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)]|[Medium34.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium34.swift)|
