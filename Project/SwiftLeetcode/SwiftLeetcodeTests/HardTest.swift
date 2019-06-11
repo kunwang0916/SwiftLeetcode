@@ -44,6 +44,19 @@ class HardTest: XCTestCase {
         XCTAssertEqual(expected, s.trap(input))
     }
     
+    func test76() {
+        let solution = Hard76()
+        var s = "ADOBECODEBANC"
+        var t = "ABC"
+        var expected = "BANC"
+        XCTAssertEqual(expected, solution.minWindow(s, t));
+        
+        s = "aa"
+        t = "aa"
+        expected = "aa"
+        XCTAssertEqual(expected, solution.minWindow(s, t));
+    }
+    
     
     func test980() {
         var array = [[1,0,0,0],[0,0,0,0],[0,0,2,-1]]
