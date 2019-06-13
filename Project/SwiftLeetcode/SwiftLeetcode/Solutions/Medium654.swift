@@ -43,7 +43,7 @@ public class Medium654: NSObject {
         }
         // find maxvalue and it's index in the array
         let maxValue = nums.max()
-        let maxIndex = nums.index(of: maxValue!)
+        let maxIndex = nums.firstIndex(of: maxValue!)
         
         // dividing to 2 part from maxIndex
         let leftHalf:[Int] = Array(nums.prefix(upTo: maxIndex!))
