@@ -37,6 +37,7 @@ The leetcode solutions written in swift.
 |Easy|[#349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Easy349.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy349.swift)|
 |Easy|[#350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Easy350.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy350.swift)|
 |Easy|[#543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Easy543.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy543.swift)|
+|Easy|[#604. Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/)|[Easy604.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy604.swift)|
 |Easy|[#665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|[Easy665.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy665.swift)|
 |Easy|[#680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Easy680.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy680.swift)|
 |Easy|[#746. Non-decreasing Array](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Easy746.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy746.swift)|
