@@ -22,6 +22,7 @@ The leetcode solutions written in swift.
 |Easy|[#112. Path Sum](https://leetcode.com/problems/path-sum/)|[Easy112.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy112.swift)|
 |Easy|[#121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Easy121.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy121.swift)|
 |Easy|[#122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Easy122.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy122.swift)|
+|Easy|[#125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Easy125.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy125.swift)|
 |Easy|[#169. Majority Element](https://leetcode.com/problems/majority-element/)|[Easy169.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy169.swift)|
 |Easy|[#198. House Robber](https://leetcode.com/problems/house-robber/)|[Easy198.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy198.swift)|
 |Easy|[#203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Easy203.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy203.swift)|

@@ -31,6 +31,14 @@ class EasyTests: XCTestCase {
         XCTAssertEqual(expected, n1)
     }
     
+    func test125() {
+        let s = Easy125()
+        XCTAssertEqual(true, s.isPalindrome("A man, a plan, a canal: Panama"))
+        XCTAssertEqual(false, s.isPalindrome("race a car"))
+        XCTAssertEqual(false, s.isPalindrome("OP"))
+        XCTAssertEqual(true, s.isPalindrome("_"))
+    }
+    
     func test242() {
         let e = Easy242()
         var s = "anagram"
