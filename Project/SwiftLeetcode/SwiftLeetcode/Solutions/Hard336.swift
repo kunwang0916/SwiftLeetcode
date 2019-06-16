@@ -72,7 +72,7 @@ public class Hard336: NSObject {
                     if let pairIndex = wordMap[String(prefix.reversed())] {
                         if pairIndex != i  {
                             // key point: order
-                            result.append([pairIndex, i])
+                            result.append([i, pairIndex])
                         }
                     }
                 }
