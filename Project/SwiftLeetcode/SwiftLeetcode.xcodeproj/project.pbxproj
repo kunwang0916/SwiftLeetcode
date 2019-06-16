@@ -120,6 +120,8 @@
 		717EAA5B22B5B684004A35D3 /* Encircular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5A22B5B683004A35D3 /* Encircular.swift */; };
 		717EAA5D22B5B6D2004A35D3 /* AirbnbTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5C22B5B6D2004A35D3 /* AirbnbTest.swift */; };
 		717EAA6322B5BCCB004A35D3 /* Hard829.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA6222B5BCCB004A35D3 /* Hard829.swift */; };
+		717EAAC722B6D1D4004A35D3 /* Medium341.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAAC622B6D1D4004A35D3 /* Medium341.swift */; };
+		717EAAC922B6D46A004A35D3 /* NestedInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAAC822B6D46A004A35D3 /* NestedInteger.swift */; };
 		718DC545229BB6A1000B2338 /* Medium207.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC544229BB6A1000B2338 /* Medium207.swift */; };
 		718DC547229BBFB8000B2338 /* Medium210.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC546229BBFB8000B2338 /* Medium210.swift */; };
 		718DC54D229D12B5000B2338 /* Medium18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC54C229D12B5000B2338 /* Medium18.swift */; };
@@ -324,6 +326,8 @@
 		717EAA5A22B5B683004A35D3 /* Encircular.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Encircular.swift; sourceTree = "<group>"; };
 		717EAA5C22B5B6D2004A35D3 /* AirbnbTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbTest.swift; sourceTree = "<group>"; };
 		717EAA6222B5BCCB004A35D3 /* Hard829.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard829.swift; sourceTree = "<group>"; };
+		717EAAC622B6D1D4004A35D3 /* Medium341.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium341.swift; sourceTree = "<group>"; };
+		717EAAC822B6D46A004A35D3 /* NestedInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NestedInteger.swift; sourceTree = "<group>"; };
 		718DC544229BB6A1000B2338 /* Medium207.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium207.swift; sourceTree = "<group>"; };
 		718DC546229BBFB8000B2338 /* Medium210.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium210.swift; sourceTree = "<group>"; };
 		718DC54C229D12B5000B2338 /* Medium18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium18.swift; sourceTree = "<group>"; };
@@ -601,6 +605,7 @@
 				712B03C9220188E50033EF7F /* Medium309.swift */,
 				71365C88208FBFB200AD24A0 /* Medium319.swift */,
 				712B03A121EF07080033EF7F /* Medium322.swift */,
+				717EAAC622B6D1D4004A35D3 /* Medium341.swift */,
 				71F9AAB3209C1BB6008E59F6 /* Medium416.swift */,
 				712B03A321EF20730033EF7F /* Medium518.swift */,
 				71225DD62090E6A300385F5D /* Medium560.swift */,
@@ -651,6 +656,7 @@
 				71365C80208FA9CB00AD24A0 /* TreeNode.swift */,
 				71F9AAB1209C0BF7008E59F6 /* ListNode.swift */,
 				71F9AAD1209D823C008E59F6 /* Interval.swift */,
+				717EAAC822B6D46A004A35D3 /* NestedInteger.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -859,6 +865,7 @@
 				715F47B022252CDE00A962C2 /* Easy53.swift in Sources */,
 				712B989A223DEB5500148F97 /* Easy1012.swift in Sources */,
 				718DC545229BB6A1000B2338 /* Medium207.swift in Sources */,
+				717EAAC922B6D46A004A35D3 /* NestedInteger.swift in Sources */,
 				71365C9120900DB100AD24A0 /* Easy38.swift in Sources */,
 				71A66193222C97A700C85F54 /* Medium129.swift in Sources */,
 				71E3179A22A8D4DE00FE2544 /* Medium150.swift in Sources */,
@@ -880,6 +887,7 @@
 				71C9EF4421D4960D006129C9 /* Easy111.swift in Sources */,
 				712B98B82262DB6500148F97 /* Medium1026.swift in Sources */,
 				71225DFB20985AD800385F5D /* Medium228.swift in Sources */,
+				717EAAC722B6D1D4004A35D3 /* Medium341.swift in Sources */,
 				712B03BE220024DA0033EF7F /* Medium46.swift in Sources */,
 				71F9AABC209D5797008E59F6 /* Medium279.swift in Sources */,
 				715F47A8221E92DD00A962C2 /* Medium208.swift in Sources */,
