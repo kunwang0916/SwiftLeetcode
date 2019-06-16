@@ -90,6 +90,7 @@ The leetcode solutions written in swift.
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
 |Medium|[#230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Medium230.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium230.swift)|
 |Medium|[#240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium240.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium240.swift)|
+|Medium|[#251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Medium251.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium251.swift)|
 |Medium|[#253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Medium253.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium253.swift)|
 |Medium|[#279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium279.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium279.swift)|
 |Medium|[#287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Medium287.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium287.swift)|
@@ -97,6 +98,7 @@ The leetcode solutions written in swift.
 |Medium|[#309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Medium309.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium309.swift)|
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
 |Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
+|Medium|[#341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium341.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium341.swift)|
 |Medium|[#402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Medium402.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium402.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|
 |Medium|[#518. Coin Change 2]( https://leetcode.com/problems/coin-change-2/)|[Medium518.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium518.swift)|
