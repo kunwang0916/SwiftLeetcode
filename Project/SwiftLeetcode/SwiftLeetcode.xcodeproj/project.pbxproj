@@ -116,8 +116,10 @@
 		717EA9F422B0BE02004A35D3 /* Easy344.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EA9F322B0BE02004A35D3 /* Easy344.swift */; };
 		717EAA5422B4C1E0004A35D3 /* Easy604.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5322B4C1E0004A35D3 /* Easy604.swift */; };
 		717EAA5622B4C6D0004A35D3 /* Easy125.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5522B4C6D0004A35D3 /* Easy125.swift */; };
+		717EAA5822B4DEE3004A35D3 /* Medium251.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5722B4DEE3004A35D3 /* Medium251.swift */; };
 		717EAA5B22B5B684004A35D3 /* Encircular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5A22B5B683004A35D3 /* Encircular.swift */; };
 		717EAA5D22B5B6D2004A35D3 /* AirbnbTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA5C22B5B6D2004A35D3 /* AirbnbTest.swift */; };
+		717EAA6322B5BCCB004A35D3 /* Hard829.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAA6222B5BCCB004A35D3 /* Hard829.swift */; };
 		718DC545229BB6A1000B2338 /* Medium207.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC544229BB6A1000B2338 /* Medium207.swift */; };
 		718DC547229BBFB8000B2338 /* Medium210.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC546229BBFB8000B2338 /* Medium210.swift */; };
 		718DC54D229D12B5000B2338 /* Medium18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC54C229D12B5000B2338 /* Medium18.swift */; };
@@ -318,8 +320,10 @@
 		717EA9F322B0BE02004A35D3 /* Easy344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy344.swift; sourceTree = "<group>"; };
 		717EAA5322B4C1E0004A35D3 /* Easy604.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy604.swift; sourceTree = "<group>"; };
 		717EAA5522B4C6D0004A35D3 /* Easy125.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy125.swift; sourceTree = "<group>"; };
+		717EAA5722B4DEE3004A35D3 /* Medium251.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium251.swift; sourceTree = "<group>"; };
 		717EAA5A22B5B683004A35D3 /* Encircular.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Encircular.swift; sourceTree = "<group>"; };
 		717EAA5C22B5B6D2004A35D3 /* AirbnbTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbTest.swift; sourceTree = "<group>"; };
+		717EAA6222B5BCCB004A35D3 /* Hard829.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard829.swift; sourceTree = "<group>"; };
 		718DC544229BB6A1000B2338 /* Medium207.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium207.swift; sourceTree = "<group>"; };
 		718DC546229BBFB8000B2338 /* Medium210.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium210.swift; sourceTree = "<group>"; };
 		718DC54C229D12B5000B2338 /* Medium18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium18.swift; sourceTree = "<group>"; };
@@ -589,6 +593,7 @@
 				71225DFA20985AD800385F5D /* Medium228.swift */,
 				71C9EF7D21E1E5DA006129C9 /* Medium230.swift */,
 				71225DE22091977A00385F5D /* Medium240.swift */,
+				717EAA5722B4DEE3004A35D3 /* Medium251.swift */,
 				712B03CF220424240033EF7F /* Medium253.swift */,
 				71F9AABB209D5797008E59F6 /* Medium279.swift */,
 				715F47B722267D5100A962C2 /* Medium287.swift */,
@@ -632,6 +637,7 @@
 				712B039B21EDC7DF0033EF7F /* Hard135.swift */,
 				712B03C12200395D0033EF7F /* Hard301.swift */,
 				713D058022AB99A100C0D764 /* Hard340.swift */,
+				717EAA6222B5BCCB004A35D3 /* Hard829.swift */,
 				712B03A921F4242C0033EF7F /* Hard980.swift */,
 				71B10B1A2213F0FF00A08E48 /* SuperIterator.swift */,
 				717EAA5322B4C1E0004A35D3 /* Easy604.swift */,
@@ -787,6 +793,7 @@
 				715F479C221BEE7E00A962C2 /* Medium161.swift in Sources */,
 				71F9AAB8209C2D16008E59F6 /* Medium49.swift in Sources */,
 				71C9EF6021D69948006129C9 /* Easy198.swift in Sources */,
+				717EAA5822B4DEE3004A35D3 /* Medium251.swift in Sources */,
 				71A66191222BB45A00C85F54 /* Hard124.swift in Sources */,
 				712B98A62247567C00148F97 /* Easy1020.swift in Sources */,
 				71225DE32091977A00385F5D /* Medium240.swift in Sources */,
@@ -833,6 +840,7 @@
 				715F47A6221E566700A962C2 /* Hard10.swift in Sources */,
 				71C9EF6821D77438006129C9 /* Candies.swift in Sources */,
 				715F47B822267D5100A962C2 /* Medium287.swift in Sources */,
+				717EAA6322B5BCCB004A35D3 /* Hard829.swift in Sources */,
 				712B03A621F41C230033EF7F /* Medium978.swift in Sources */,
 				715F47B22225445B00A962C2 /* Medium54.swift in Sources */,
 				712B98962234BA6800148F97 /* Easy1005.swift in Sources */,

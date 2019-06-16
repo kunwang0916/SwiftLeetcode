@@ -57,6 +57,13 @@ class HardTest: XCTestCase {
         XCTAssertEqual(expected, solution.minWindow(s, t));
     }
     
+    func test829() {
+        let s = Hard829()
+        XCTAssertEqual(2, s.consecutiveNumbersSum(5))
+        XCTAssertEqual(3, s.consecutiveNumbersSum(9))
+        XCTAssertEqual(4, s.consecutiveNumbersSum(15))
+        XCTAssertEqual(1, s.consecutiveNumbersSum(1))
+    }
     
     func test980() {
         var array = [[1,0,0,0],[0,0,0,0],[0,0,2,-1]]
