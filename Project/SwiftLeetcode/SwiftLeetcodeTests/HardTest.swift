@@ -57,6 +57,14 @@ class HardTest: XCTestCase {
         XCTAssertEqual(expected, solution.minWindow(s, t));
     }
     
+    func test336() {
+        let s = Hard336()
+        XCTAssertEqual([[0,1],[1,0]], s.palindromePairs(["a",""]).sorted{ $0[0] < $1[0] })
+        XCTAssertEqual([[0,1],[1,0],[2,4], [3,2]], s.palindromePairs(["abcd","dcba","lls","s","sssll"]).sorted{ $0[0] < $1[0] })
+        XCTAssertEqual([[0,1],[1,0]] , s.palindromePairs(["bat","tab","cat"]).sorted{ $0[0] < $1[0] })
+        
+    }
+    
     func test829() {
         let s = Hard829()
         XCTAssertEqual(2, s.consecutiveNumbersSum(5))
