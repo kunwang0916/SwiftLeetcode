@@ -14,11 +14,7 @@ class Medium251: NSObject {
         var curIndex = 0
         
         init(_ v: [[Int]]) {
-            for arr in v {
-                for num in arr {
-                    self.flatArray.append(num)
-                }
-            }
+            self.flatArray = v.reduce([], +)
         }
         
         func next() -> Int {
