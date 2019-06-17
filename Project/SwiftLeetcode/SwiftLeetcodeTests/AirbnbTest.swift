@@ -17,4 +17,12 @@ class AirbnbTest: XCTestCase {
         let expected = ["NO", "YES", "NO", "YES", "NO"]
         XCTAssertEqual(expected, ec.doesCircleExist(commands: inputs))
     }
+    
+    func testEllipsize() {
+        let e = Ellipsize()
+        let str = "Hello, World!"
+        XCTAssertEqual("...d!", e.ellipsize(str, 5, .START))
+        XCTAssertEqual("H...d!", e.ellipsize(str, 6, .MIDDLE))
+        XCTAssertEqual("Hello...", e.ellipsize(str, 8, .END))
+    }
 }
