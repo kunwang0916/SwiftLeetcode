@@ -107,6 +107,7 @@ The leetcode solutions written in swift.
 |Medium|[#672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)|[Medium672.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium672.swift)|
 |Medium|[#695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Medium695.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium695.swift)|
 |Medium|[#755. Pour Water](https://leetcode.com/problems/pour-water/)|[Medium755.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium755.swift)|
+|Medium|[#787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Medium787.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium787.swift)|
 |Medium|[#807. Max Increase to Keep City Skylinee](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|[Medium807.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium807.swift)|
 |Medium|[#814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Medium814.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium814.swift)|
 |Medium|[#845. Longest Mountain in Array](https://leetcode.com/problems/binary-tree-pruning/)|[Medium845.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium845.swift)|
