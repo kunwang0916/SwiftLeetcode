@@ -127,6 +127,7 @@
 		717EAACF22B76336004A35D3 /* Medium755.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAACE22B76336004A35D3 /* Medium755.swift */; };
 		717EAAD122B7764E004A35D3 /* Medium787.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAAD022B7764E004A35D3 /* Medium787.swift */; };
 		717EAAD522B88B9A004A35D3 /* Medium1058.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAAD422B88B9A004A35D3 /* Medium1058.swift */; };
+		717EAAD722B89D4F004A35D3 /* Medium347.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717EAAD622B89D4F004A35D3 /* Medium347.swift */; };
 		718DC545229BB6A1000B2338 /* Medium207.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC544229BB6A1000B2338 /* Medium207.swift */; };
 		718DC547229BBFB8000B2338 /* Medium210.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC546229BBFB8000B2338 /* Medium210.swift */; };
 		718DC54D229D12B5000B2338 /* Medium18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718DC54C229D12B5000B2338 /* Medium18.swift */; };
@@ -338,6 +339,7 @@
 		717EAACE22B76336004A35D3 /* Medium755.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium755.swift; sourceTree = "<group>"; };
 		717EAAD022B7764E004A35D3 /* Medium787.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium787.swift; sourceTree = "<group>"; };
 		717EAAD422B88B9A004A35D3 /* Medium1058.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1058.swift; sourceTree = "<group>"; };
+		717EAAD622B89D4F004A35D3 /* Medium347.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium347.swift; sourceTree = "<group>"; };
 		718DC544229BB6A1000B2338 /* Medium207.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium207.swift; sourceTree = "<group>"; };
 		718DC546229BBFB8000B2338 /* Medium210.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium210.swift; sourceTree = "<group>"; };
 		718DC54C229D12B5000B2338 /* Medium18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium18.swift; sourceTree = "<group>"; };
@@ -616,6 +618,7 @@
 				71365C88208FBFB200AD24A0 /* Medium319.swift */,
 				712B03A121EF07080033EF7F /* Medium322.swift */,
 				717EAAC622B6D1D4004A35D3 /* Medium341.swift */,
+				717EAAD622B89D4F004A35D3 /* Medium347.swift */,
 				71F9AAB3209C1BB6008E59F6 /* Medium416.swift */,
 				712B03A321EF20730033EF7F /* Medium518.swift */,
 				71225DD62090E6A300385F5D /* Medium560.swift */,
@@ -868,6 +871,7 @@
 				712B03A621F41C230033EF7F /* Medium978.swift in Sources */,
 				715F47B22225445B00A962C2 /* Medium54.swift in Sources */,
 				712B98962234BA6800148F97 /* Easy1005.swift in Sources */,
+				717EAAD722B89D4F004A35D3 /* Medium347.swift in Sources */,
 				717EAA5422B4C1E0004A35D3 /* Easy604.swift in Sources */,
 				717EA9F222B0B5A2004A35D3 /* Medium981.swift in Sources */,
 				712B03D2220429EF0033EF7F /* Easy252.swift in Sources */,

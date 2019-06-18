@@ -41,7 +41,10 @@ public class Medium1058: NSObject {
         
         let numToCeil = target - Int(flooredSum)
         // sort by decimal in desc order, so the top k will be ceiled
-        decimals = decimals.sorted{ $0.decimal > $1.decimal }
+        // normal sort O(NLogN)
+        // decimals = decimals.sorted{ $0.decimal > $1.decimal }
+        // quick select O(N)
+        quickSelect(&decimals, numToCeil, 0, decimals.count - 1)
         var result = 0.0
         for i in 0..<decimals.count {
             if (i < numToCeil) {
@@ -54,5 +57,37 @@ public class Medium1058: NSObject {
         }
         
         return String(format: "%.3f", result)
+    }
+    
+    // O(N) sort for top k
+    private func quickSelect(_ array: inout [IndexDecimal], _ k: Int, _ start: Int, _ end: Int) {
+        if k <= 0 || k > (end - start + 1) {
+            return
+        }
+        let index = self.partition(&array, start, end)
+        let diff = index - start + 1
+        if diff == k {
+            // top k sorted
+            return
+        }
+        
+        if diff > k {
+            quickSelect(&array, k, start, index - 1)
+        } else {
+            quickSelect(&array, k - diff, index + 1, end)
+        }
+    }
+    
+    private func partition(_ array: inout [IndexDecimal], _ start: Int, _ end: Int) -> Int {
+        let pivot = array[end].decimal
+        var i = start
+        for j in start..<end {
+            if array[j].decimal > pivot {
+                array.swapAt(i, j)
+                i += 1
+            }
+        }
+        array.swapAt(i, end)
+        return i
     }
 }

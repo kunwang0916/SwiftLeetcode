@@ -99,6 +99,7 @@ The leetcode solutions written in swift.
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
 |Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
 |Medium|[#341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium341.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium341.swift)|
+|Medium|[#347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Medium347.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium347.swift)|
 |Medium|[#402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Medium402.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium402.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|
 |Medium|[#518. Coin Change 2]( https://leetcode.com/problems/coin-change-2/)|[Medium518.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium518.swift)|
