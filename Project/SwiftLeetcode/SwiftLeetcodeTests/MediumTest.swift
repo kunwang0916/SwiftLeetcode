@@ -323,4 +323,27 @@ class MediumTest: XCTestCase {
         XCTAssertEqual(expect, s.shipWithinDays(weights, D))
     }
     
+    func test1058() {
+        let s = Medium1058()
+        var expected = ""
+        var prices = [String]()
+        var target = 0
+        
+        prices = ["0.700","2.800","4.900"]
+        target = 8
+        expected = "1.000"
+        XCTAssertEqual(expected, s.minimizeError(prices, target))
+        
+        prices = ["1.500","2.500","3.500"]
+        target = 10
+        expected = "-1"
+        XCTAssertEqual(expected, s.minimizeError(prices, target))
+        
+        
+        prices = ["2.000","2.000","2.000","2.000","2.000"]
+        target = 11
+        expected = "-1"
+        XCTAssertEqual(expected, s.minimizeError(prices, target))
+    }
+    
 }

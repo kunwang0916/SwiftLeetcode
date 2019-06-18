@@ -125,6 +125,7 @@ The leetcode solutions written in swift.
 |Medium|[#1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)|[Medium1020.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1020.swift)|
 |Medium|[#1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[Medium1021.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1021.swift)|
 |Medium|[#1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Medium1026.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1026.swift)|
+|Medium|[#1058. Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/)|[Medium1058.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium1058.swift)|
 |Hard|[#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Hard10.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard10.swift)|
 |Hard|[#32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Hard32.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard32.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
