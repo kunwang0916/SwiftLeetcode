@@ -17,6 +17,22 @@ import UIKit
 
 public class Hard336: NSObject {
     
+    public func palindromePairs(_ words: [String]) -> [[Int]] {
+        return hashMap(words)
+    }
+    
+    // TODO: prefix tree solution
+//    class TrieNode {
+//        var next: TrieNode;
+//        var index: Int;
+//        var
+//    }
+    
+    func trieTree(_ words: [String]) -> [[Int]] {
+        var result:[[Int]] = []
+        return result
+    }
+    
     func isPalindrome(_ word: String) -> Bool {
         var l = 0
         var r = word.count - 1
@@ -32,14 +48,10 @@ public class Hard336: NSObject {
         return true
     }
     
-    public func palindromePairs(_ words: [String]) -> [[Int]] {
-        return hashMap(words)
-    }
-    
-    
     /**
      time: O(N* K^2), N is length of words, k is ave length of word
      space: O(N)
+     running time : 4192 ms
      **/
     func hashMap(_ words: [String]) -> [[Int]] {
         var result:[[Int]] = []
