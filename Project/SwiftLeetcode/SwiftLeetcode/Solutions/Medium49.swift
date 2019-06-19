@@ -8,27 +8,24 @@
 /**
  49. Group Anagrams
  https://leetcode.com/problems/group-anagrams/description/
+ time: O(NKlogK)
+ space: O(NK)
+ N is the length of strs, and KK is the maximum length of a string in strs
  **/
 
 import UIKit
 
 public class Medium49: NSObject {
     public class func groupAnagrams(_ strs: [String]) -> [[String]] {
-        var result:[[String]] = []
-        var map:[String: Int] = [:]
+        var map = [String:[String]]()
+        
         for str in strs {
-            // get the key for string
             let key = String(str.sorted())
-            if map.keys.contains(key) {
-                // if existing, then append
-                result[map[key]!].append(str)
-            } else {
-                // if new, then add to map
-                result.append([str])
-                map[key] = result.count - 1
-            }
+            var array = map[key] ?? [String]()
+            array.append(str)
+            map[key] = array
         }
         
-        return result
+        return Array(map.values)
     }
 }
