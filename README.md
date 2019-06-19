@@ -6,6 +6,7 @@ The leetcode solutions written in swift.
 |Level| Question|Solution Class| 
 |---|---|---|
 |Easy|[#1. Two Sum](https://leetcode.com/problems/two-sum/)|[Easy1.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1.swift)|
+|Easy|[#20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Easy20.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy20.swift)|
 |Easy|[#26. Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Easy26.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy26.swift)|
 |Easy|[#27.  Remove Element]( https://leetcode.com/problems/remove-element/)|[Easy27.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy27.swift)|
 |Easy|[#38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|[Easy38.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy38.swift)|

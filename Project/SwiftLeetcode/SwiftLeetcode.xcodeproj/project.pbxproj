@@ -135,6 +135,7 @@
 		71A301AD2210FC8900CFB988 /* Medium6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A301AC2210FC8900CFB988 /* Medium6.swift */; };
 		71A301AF2212A94A00CFB988 /* Medium990.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A301AE2212A94A00CFB988 /* Medium990.swift */; };
 		71A301B12212B33300CFB988 /* Medium991.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A301B02212B33300CFB988 /* Medium991.swift */; };
+		71A36C6A22BA2061007ADDE9 /* Easy20.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A36C6922BA2061007ADDE9 /* Easy20.swift */; };
 		71A5844A221AB6AC00B8D123 /* Medium3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A58449221AB6AC00B8D123 /* Medium3.swift */; };
 		71A6618C222A801900C85F54 /* Medium402.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A6618B222A801900C85F54 /* Medium402.swift */; };
 		71A6618E222B791100C85F54 /* Medium1004.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A6618D222B791100C85F54 /* Medium1004.swift */; };
@@ -347,6 +348,7 @@
 		71A301AC2210FC8900CFB988 /* Medium6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium6.swift; sourceTree = "<group>"; };
 		71A301AE2212A94A00CFB988 /* Medium990.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium990.swift; sourceTree = "<group>"; };
 		71A301B02212B33300CFB988 /* Medium991.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium991.swift; sourceTree = "<group>"; };
+		71A36C6922BA2061007ADDE9 /* Easy20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy20.swift; sourceTree = "<group>"; };
 		71A58449221AB6AC00B8D123 /* Medium3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium3.swift; sourceTree = "<group>"; };
 		71A6618B222A801900C85F54 /* Medium402.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium402.swift; sourceTree = "<group>"; };
 		71A6618D222B791100C85F54 /* Medium1004.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1004.swift; sourceTree = "<group>"; };
@@ -520,6 +522,7 @@
 			isa = PBXGroup;
 			children = (
 				71C9EF3D21D4883A006129C9 /* Easy1.swift */,
+				71A36C6922BA2061007ADDE9 /* Easy20.swift */,
 				71225DDA209150A400385F5D /* Easy26.swift */,
 				712B98A12244C20F00148F97 /* Easy27.swift */,
 				71365C9020900DB100AD24A0 /* Easy38.swift */,
@@ -815,6 +818,7 @@
 				712B03A821F420210033EF7F /* Medium979.swift in Sources */,
 				71225DEF2097FDB600385F5D /* Hard41.swift in Sources */,
 				715F479C221BEE7E00A962C2 /* Medium161.swift in Sources */,
+				71A36C6A22BA2061007ADDE9 /* Easy20.swift in Sources */,
 				71F9AAB8209C2D16008E59F6 /* Medium49.swift in Sources */,
 				71C9EF6021D69948006129C9 /* Easy198.swift in Sources */,
 				717EAA5822B4DEE3004A35D3 /* Medium251.swift in Sources */,
