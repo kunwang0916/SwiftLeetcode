@@ -48,6 +48,7 @@ The leetcode solutions written in swift.
 |Easy|[#733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Easy733.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy733.swift)|
 |Easy|[#965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Easy965.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy965.swift)|
 |Easy|[#970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Easy970.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy970.swift)|
+|Easy|[#977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Easy977.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy977.swift)|
 |Easy|[#1012. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Easy1012.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1012.swift)|
 |Easy|[#1013. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[Easy1013.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1013.swift)|
 |Easy|[#1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Easy1018.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy1018.swift)|
