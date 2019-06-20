@@ -57,6 +57,24 @@ class HardTest: XCTestCase {
         XCTAssertEqual(expected, solution.minWindow(s, t));
     }
     
+    func test329() {
+        let s = Hard329()
+        var nums =
+            [
+                [9,9,4],
+                [6,6,8],
+                [2,1,1]
+        ]
+        XCTAssertEqual(4, s.longestIncreasingPath(nums));
+        
+        nums = [
+            [3,4,5],
+            [3,2,6],
+            [2,2,1]
+        ]
+        XCTAssertEqual(4, s.longestIncreasingPath(nums));
+    }
+    
     func test336() {
         let s = Hard336()
         XCTAssertEqual([[0,1],[1,0]], s.palindromePairs(["a",""]).sorted{ $0[0] < $1[0] })
