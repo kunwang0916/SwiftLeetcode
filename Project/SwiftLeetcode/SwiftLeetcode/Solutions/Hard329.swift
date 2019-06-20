@@ -36,9 +36,6 @@ public class Hard329: NSObject {
             }
         }
         
-        for row in memo {
-            print(row)
-        }
         return result
     }
     
