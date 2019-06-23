@@ -77,4 +77,28 @@ class DemoTest: XCTestCase {
         XCTAssertEqual(expected, Hard41.firstMissingPositive(input))
     }
 
+    func testAverageWindow() {
+        guard let aw = AverageWindow(3) else {
+            return
+        }
+        
+        let testCase:[[Double]] = [
+            [1.0, 1.0],
+            [2.0, 1.5],
+            [3.0, 2.0],
+            [1.0, 2.0],
+            [5.0, 3.0]
+        ]
+        
+        for t in testCase {
+            XCTAssertEqual(aw.avaregeWith(Int(t[0])), t[1])
+        }
+        
+        for i in 0...10000 {
+            //asyc
+            DispatchQueue.main.async {
+                _ = aw.avaregeWith(Int(1))
+            }
+        }
+    }
 }
