@@ -56,7 +56,6 @@ public class AverageWindow: NSObject {
         assert(self.numbers.count <= self.windowSize)
         let result = self.averageWithNSLock(num)
         assert(self.numbers.count <= self.windowSize)
-        print(num, result)
         return result
     }
 }
