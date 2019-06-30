@@ -138,6 +138,7 @@ The leetcode solutions written in swift.
 |Hard|[#76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Hard76.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard76.swift)|
 |Hard|[#124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Hard124.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard124.swift)|
 |Hard|[#135. Candy](https://leetcode.com/problems/candy)|[Hard135.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard135.swift)|
+|Hard|[#269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary)|[Hard269.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard269.swift)|
 |Hard|[#301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Hard301.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard301.swift)|
 |Hard|[#329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)|[Hard329.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard329.swift)|
 |Hard|[#336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs)|[Hard336.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard336.swift)|
