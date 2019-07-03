@@ -103,6 +103,7 @@ The leetcode solutions written in swift.
 |Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
 |Medium|[#341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium341.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium341.swift)|
 |Medium|[#347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Medium347.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium347.swift)|
+|Medium|[#380. 380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Medium380.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium380.swift)|
 |Medium|[#402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Medium402.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium402.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|
 |Medium|[#518. Coin Change 2]( https://leetcode.com/problems/coin-change-2/)|[Medium518.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium518.swift)|
@@ -134,6 +135,7 @@ The leetcode solutions written in swift.
 |Hard|[#32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Hard32.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard32.swift)|
 |Hard|[#41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Hard41.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard41.swift)|
 |Hard|[#42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Hard42.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard42.swift)|
+|Hard|[#68. Text Justification](https://leetcode.com/problems/text-justification/)|[Hard68.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard68.swift)|
 |Hard|[#72. Edit Distance](https://leetcode.com/problems/edit-distance/)|[Hard72.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard72.swift)|
 |Hard|[#76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Hard76.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard76.swift)|
 |Hard|[#124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Hard124.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Hard124.swift)|

@@ -44,6 +44,41 @@ class HardTest: XCTestCase {
         XCTAssertEqual(expected, s.trap(input))
     }
     
+    func test68() {
+        let s = Hard68()
+        
+        var words = ["This", "is", "an", "example", "of", "text", "justification."]
+        var maxWidth = 16
+        var expected = [
+            "This    is    an",
+            "example  of text",
+            "justification.  "
+        ]
+        XCTAssertEqual(expected, s.fullJustify(words, maxWidth))
+        
+        words =  ["What","must","be","acknowledgment","shall","be"]
+        maxWidth = 16
+        expected = [
+            "What   must   be",
+            "acknowledgment  ",
+            "shall be        "
+        ]
+        XCTAssertEqual(expected, s.fullJustify(words, maxWidth))
+        
+        words =  ["Science","is","what","we","understand","well","enough","to","explain",
+                  "to","a","computer.","Art","is","everything","else","we","do"]
+        maxWidth = 20
+        expected = [
+            "Science  is  what we",
+            "understand      well",
+            "enough to explain to",
+            "a  computer.  Art is",
+            "everything  else  we",
+            "do                  "
+        ]
+        XCTAssertEqual(expected, s.fullJustify(words, maxWidth))
+    }
+    
     func test76() {
         let solution = Hard76()
         var s = "ADOBECODEBANC"
