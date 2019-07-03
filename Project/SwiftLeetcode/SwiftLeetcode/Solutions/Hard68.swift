@@ -17,71 +17,58 @@
 import UIKit
 
 public class Hard68: NSObject {
-    public func fullJustify(_ words: [String], _ maxWidth: Int) -> [String] {
-        var lines = [[String]]()
-        var wordWidthOfLines = [Int]()
+    
+    private func buildLine(_ words: [String], _ totalWordLength: Int, _ maxWidth: Int, _ isLastLine: Bool) -> String {
+        var str = ""
+        var aveSpaceBucket = " "
+        var extraSpaceBucket = " "
+        var extraSpaceBucketNum = 0
         
-        var curRow = 0
+        if words.count > 1 && !isLastLine  {
+            let aveSpaceNum = (maxWidth - totalWordLength) / (words.count - 1)
+            extraSpaceBucketNum = (maxWidth - totalWordLength) % (words.count - 1)
+            aveSpaceBucket = String(repeating: " ", count: aveSpaceNum)
+            extraSpaceBucket = aveSpaceBucket + " "
+        }
+        
+        for i in 0..<words.count {
+            str += words[i]
+            if i < words.count - 1 {
+                if i < extraSpaceBucketNum {
+                    str += extraSpaceBucket
+                } else {
+                    str += aveSpaceBucket
+                }
+            }
+        }
+        
+        if str.count < maxWidth {
+            str += String(repeating: " ", count:maxWidth - str.count)
+        }
+        
+        return str
+    }
+    
+    public func fullJustify(_ words: [String], _ maxWidth: Int) -> [String] {
+        var result = [String]()
+        
         var curWordLength = 0
-        var curLineWordCount = 0
+        var curLineWords = [String]()
         for i in 0..<words.count {
             let word = words[i]
-            if (curWordLength + word.count + curLineWordCount > maxWidth) {
-                curRow += 1
-                wordWidthOfLines.append(curWordLength);
+            if (curWordLength + word.count + curLineWords.count > maxWidth) {
+                result.append(buildLine(curLineWords, curWordLength, maxWidth, false))
+                curLineWords = []
                 curWordLength = 0
-                curLineWordCount = 0
             }
-            curLineWordCount += 1
+            curLineWords.append(word)
             curWordLength += word.count
-            
-            if curRow > lines.count - 1 {
-                lines.append([])
-            }
-            
-            lines[curRow].append(word)
         }
         
-        if (curLineWordCount > 0) {
-            wordWidthOfLines.append(curWordLength);
+        if !curLineWords.isEmpty {
+            result.append(buildLine(curLineWords, curWordLength, maxWidth, true))
         }
         
-        var result = [String]()
-        for i in 0..<lines.count {
-            let line = lines[i]
-            let totalSpace = maxWidth - wordWidthOfLines[i]
-            let spaceBuckets = line.count - 1
-            let aveSpaceNum = spaceBuckets > 0 ? totalSpace / spaceBuckets : 0
-            let moreSpaceBucketNum = spaceBuckets > 0 ? totalSpace % spaceBuckets : 0
-            let aveSpaceBucket = String(repeating: " ", count: aveSpaceNum)
-            let moreSpaceBucket = aveSpaceBucket + " "
-            
-            var lineString = ""
-            for j in 0..<line.count {
-                lineString += line[j]
-                
-                if j == line.count - 1 {
-                    continue
-                }
-                if i == lines.count - 1 {
-                    // last line
-                    lineString += " "
-                } else {
-                    if j < moreSpaceBucketNum {
-                        lineString += moreSpaceBucket
-                    } else {
-                        lineString += aveSpaceBucket
-                    }
-                }
-            }
-            
-            if maxWidth - lineString.count > 0 {
-                lineString += String(repeating: " ", count: maxWidth - lineString.count)
-            }
-            
-            result.append(lineString)
-        }
         return result
-        
     }
 }
