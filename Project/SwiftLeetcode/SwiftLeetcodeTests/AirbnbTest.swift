@@ -25,4 +25,10 @@ class AirbnbTest: XCTestCase {
         XCTAssertEqual("H...d!", e.ellipsize(str, 6, .MIDDLE))
         XCTAssertEqual("Hello...", e.ellipsize(str, 8, .END))
     }
+    
+    func testTextJustification() {
+        let s = TextJustification()
+        let input = ["first word", "my second sentence", "now it's third"]
+        print(s.prettyPrint(input, 14))
+    }
 }

@@ -97,6 +97,7 @@ The leetcode solutions written in swift.
 |Medium|[#253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Medium253.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium253.swift)|
 |Medium|[#279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium279.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium279.swift)|
 |Medium|[#287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Medium287.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium287.swift)|
+|Medium|[#299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Medium299.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium299.swift)|
 |Medium|[#300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Medium300.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium300.swift)|
 |Medium|[#309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Medium309.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium309.swift)|
 |Medium|[#319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)|[Medium319.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium319.swift)|
