@@ -98,6 +98,7 @@ The leetcode solutions written in swift.
 |Medium|[#228. Summary Ranges](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Medium228.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium228.swift)|
 |Medium|[#230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Medium230.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium230.swift)|
 |Medium|[#240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Medium240.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium240.swift)|
+|Medium|[#244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|[Medium244.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium244.swift)|
 |Medium|[#251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Medium251.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium251.swift)|
 |Medium|[#253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Medium253.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium253.swift)|
 |Medium|[#279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)|[Medium279.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium279.swift)|

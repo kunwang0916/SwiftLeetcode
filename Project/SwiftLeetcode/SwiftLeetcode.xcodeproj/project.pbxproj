@@ -157,6 +157,7 @@
 		71ABF8F822DAB9B30016F01E /* Medium370.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71ABF8F722DAB9B30016F01E /* Medium370.swift */; };
 		71ABF8FA22DAC2B20016F01E /* Medium127.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71ABF8F922DAC2B20016F01E /* Medium127.swift */; };
 		71ABF8FC22DAEB660016F01E /* Medium134.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71ABF8FB22DAEB660016F01E /* Medium134.swift */; };
+		71ABF8FE22DAFF190016F01E /* Medium244.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71ABF8FD22DAFF190016F01E /* Medium244.swift */; };
 		71B10B1B2213F0FF00A08E48 /* SuperIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B10B1A2213F0FF00A08E48 /* SuperIterator.swift */; };
 		71B10B1D2213FC0700A08E48 /* Easy339.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B10B1C2213FC0700A08E48 /* Easy339.swift */; };
 		71B10B1F2213FE5B00A08E48 /* Easy169.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B10B1E2213FE5B00A08E48 /* Easy169.swift */; };
@@ -387,6 +388,7 @@
 		71ABF8F722DAB9B30016F01E /* Medium370.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium370.swift; sourceTree = "<group>"; };
 		71ABF8F922DAC2B20016F01E /* Medium127.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium127.swift; sourceTree = "<group>"; };
 		71ABF8FB22DAEB660016F01E /* Medium134.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium134.swift; sourceTree = "<group>"; };
+		71ABF8FD22DAFF190016F01E /* Medium244.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium244.swift; sourceTree = "<group>"; };
 		71B10B1A2213F0FF00A08E48 /* SuperIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperIterator.swift; sourceTree = "<group>"; };
 		71B10B1C2213FC0700A08E48 /* Easy339.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy339.swift; sourceTree = "<group>"; };
 		71B10B1E2213FE5B00A08E48 /* Easy169.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy169.swift; sourceTree = "<group>"; };
@@ -652,6 +654,7 @@
 				71225DFA20985AD800385F5D /* Medium228.swift */,
 				71C9EF7D21E1E5DA006129C9 /* Medium230.swift */,
 				71225DE22091977A00385F5D /* Medium240.swift */,
+				71ABF8FD22DAFF190016F01E /* Medium244.swift */,
 				717EAA5722B4DEE3004A35D3 /* Medium251.swift */,
 				712B03CF220424240033EF7F /* Medium253.swift */,
 				71F9AABB209D5797008E59F6 /* Medium279.swift */,
@@ -849,6 +852,7 @@
 				71365C89208FBFB200AD24A0 /* Medium319.swift in Sources */,
 				71ABF8FC22DAEB660016F01E /* Medium134.swift in Sources */,
 				712B98B62259A9AC00148F97 /* Easy1022.swift in Sources */,
+				71ABF8FE22DAFF190016F01E /* Medium244.swift in Sources */,
 				71F9AADA209EC245008E59F6 /* Medium34.swift in Sources */,
 				715F47AA2223CE1A00A962C2 /* Medium998.swift in Sources */,
 				712B98A22244C20F00148F97 /* Easy27.swift in Sources */,
