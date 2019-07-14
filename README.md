@@ -19,6 +19,7 @@ The leetcode solutions written in swift.
 |Easy|[#100. Same Tree](https://leetcode.com/problems/same-tree/)|[Easy100.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy100.swift)|
 |Easy|[#101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Easy101.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy101.swift)|
 |Easy|[#104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Easy104.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy104.swift)|
+|Easy|[#107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Easy107.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy107.swift)|
 |Easy|[#111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Easy111.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy111.swift)|
 |Easy|[#112. Path Sum](https://leetcode.com/problems/path-sum/)|[Easy112.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy112.swift)|
 |Easy|[#121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Easy121.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy121.swift)|
@@ -29,6 +30,7 @@ The leetcode solutions written in swift.
 |Easy|[#203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Easy203.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy203.swift)|
 |Easy|[#206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Easy206.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy206.swift)|
 |Easy|[#242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Easy242.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy242.swift)|
+|Easy|[#243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Easy243.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy243.swift)|
 |Easy|[#252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Easy252.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy252.swift)|
 |Easy|[#257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Easy257.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy257.swift)|
 |Easy|[#268. Missing Number](https://leetcode.com/problems/missing-number/)|[Easy268.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Easy268.swift)|
@@ -78,9 +80,12 @@ The leetcode solutions written in swift.
 |Medium|[#75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Medium75.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium75.swift)|
 |Medium|[#78. Subsets](https://leetcode.com/problems/subsets)|[Medium78.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium78.swift)|
 |Medium|[#98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Medium98.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium98.swift)|
+|Medium|[#102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Medium102.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium102.swift)|
 |Medium|[#113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Medium113.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium113.swift)|
 |Medium|[#114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Medium114.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium114.swift)|
+|Medium|[#127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Medium127.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium127.swift)|
 |Medium|[#129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Medium129.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium129.swift)|
+|Medium|[#134. Gas Station](https://leetcode.com/problems/gas-station/)|[Medium134.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium134.swift)|
 |Medium|[#139. Word Break](https://leetcode.com/problems/word-break/)|[Medium139.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium139.swift)|
 |Medium|[#148. Sort List](https://leetcode.com/problems/sort-list/description/)|[Medium148.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium148.swift)|
 |Medium|[#150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Medium150.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium150.swift)|
@@ -104,6 +109,8 @@ The leetcode solutions written in swift.
 |Medium|[#322. Coin Change](https://leetcode.com/problems/coin-change/)|[Medium322.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium322.swift)|
 |Medium|[#341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Medium341.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium341.swift)|
 |Medium|[#347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Medium347.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium347.swift)|
+|Medium|[#366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Medium366.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium366.swift)|
+|Medium|[#370. Range Addition](https://leetcode.com/problems/range-addition/)|[Medium370.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium370.swift)|
 |Medium|[#380. 380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Medium380.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium380.swift)|
 |Medium|[#402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Medium402.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium402.swift)|
 |Medium|[#416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Medium416.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium416.swift)|

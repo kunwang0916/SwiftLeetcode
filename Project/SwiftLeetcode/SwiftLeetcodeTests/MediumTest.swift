@@ -98,6 +98,26 @@ class MediumTest: XCTestCase {
         XCTAssertEqual(expected, s.spiralOrder(input))
     }
     
+    func test127() {
+        var beginWord = ""
+        var endWord = ""
+        var wordList = [String]()
+        var expected = 0
+        let s = Medium127()
+        
+        beginWord = "hit"
+        endWord = "cog"
+        wordList = ["hot","dot","dog","lot","log","cog"]
+        expected = 5
+        
+        XCTAssertEqual(expected, s.ladderLength(beginWord, endWord, wordList))
+        
+        
+        wordList = ["hot","dot","dog","lot","log"]
+        expected = 0
+        XCTAssertEqual(expected, s.ladderLength(beginWord, endWord, wordList))
+    }
+    
     func test161() {
         var s = ""
         var t = ""
