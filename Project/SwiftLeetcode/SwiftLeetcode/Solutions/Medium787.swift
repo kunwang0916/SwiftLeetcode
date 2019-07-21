@@ -17,7 +17,32 @@ import UIKit
 
 class Medium787: NSObject {
     func findCheapestPrice(_ n: Int, _ flights: [[Int]], _ src: Int, _ dst: Int, _ K: Int) -> Int {
-        return bellmanford(n, flights, src, dst, K)
+        return dicSolotion(n, flights, src, dst, K)
+//        return bellmanford(n, flights, src, dst, K)
+    }
+    
+    
+    func dicSolotion(_ n: Int, _ flights: [[Int]], _ src: Int, _ dst: Int, _ K: Int) -> Int {
+        var prices = [Int:Int]()
+        prices[src] = 0
+        
+        for _ in 0...K {
+            var tmpPrices = prices
+            for flight in flights {
+                let (u, v, w) = (flight[0], flight[1], flight[2])
+                guard let price = prices[u] else {
+                    continue
+                }
+                tmpPrices[v] = min(tmpPrices[v] ?? Int.max, price + w)
+            }
+            prices = tmpPrices
+        }
+        
+        guard let p = prices[dst] else {
+            return -1
+        }
+        
+        return p
     }
     
     /**
