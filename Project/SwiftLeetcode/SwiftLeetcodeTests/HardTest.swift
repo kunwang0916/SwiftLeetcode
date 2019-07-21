@@ -118,6 +118,12 @@ class HardTest: XCTestCase {
         
     }
     
+    func test780() {
+        let s = Hard780()
+        
+        XCTAssertTrue(s.reachingPoints(1, 1, 3, 5))
+    }
+    
     func test829() {
         let s = Hard829()
         XCTAssertEqual(2, s.consecutiveNumbersSum(5))
