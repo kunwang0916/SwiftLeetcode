@@ -68,6 +68,7 @@ The leetcode solutions written in swift.
 |Medium|[#19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Medium19.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium19.swift)|
 |Medium|[#33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)]|[Medium33.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium33.swift)|
 |Medium|[#34. Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)]|[Medium34.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium34.swift)|
+|Medium|[#36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)]|[Medium36.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium36.swift)|
 |Medium|[#46. Permutations](https://leetcode.com/problems/permutations/)|[Medium46.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium46.swift)|
 |Medium|[#47. Permutations](https://leetcode.com/problems/permutations-ii/)|[Medium47.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium47.swift)|
 |Medium|[#48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Medium48.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium48.swift)|
