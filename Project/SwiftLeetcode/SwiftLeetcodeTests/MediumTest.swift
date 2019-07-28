@@ -176,10 +176,10 @@ class MediumTest: XCTestCase {
     }
     
     func test253() {
-        var intervals = [Interval(0, 30), Interval(5, 10), Interval(15, 20)]
+        var intervals = [[0, 30], [5, 10], [15, 20]]
         var expected = 2
         XCTAssertEqual(expected, Medium253.minMeetingRooms(intervals))
-        intervals = [Interval(7, 10), Interval(2, 4)]
+        intervals = [[7, 10], [2, 4]]
         expected = 1
         XCTAssertEqual(expected, Medium253.minMeetingRooms(intervals))
     }

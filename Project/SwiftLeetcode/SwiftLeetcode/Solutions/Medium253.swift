@@ -14,32 +14,29 @@
 import UIKit
 
 public class Medium253: NSObject {
-    public class func minMeetingRooms(_ intervals: [Interval]) -> Int {
+    public static func minMeetingRooms(_ intervals: [[Int]]) -> Int {
         if intervals.isEmpty {
             return 0
         }
-        var starts = Array(repeating: 0, count: intervals.count)
-        var ends = Array(repeating: 0, count: intervals.count)
         
-        for i in 0..<intervals.count {
-            starts[i] = intervals[i].start
-            ends[i] = intervals[i].end
-        }
+        var starts = intervals.map { $0[0] }
+        var ends = intervals.map { $0[1] }
+        starts.sort()
+        ends.sort()
         
-        starts = starts.sorted()
-        ends = ends.sorted()
+        var rooms = 0
+        // end Index
+        var ei = 0
         
-        var room = 0
-        var eIndex = 0
-        for i in 0..<starts.count {
-            if starts[i] >= ends[eIndex] {
-                room -= 1
-                eIndex += 1
+        for si in 0..<starts.count {
+            if starts[si] >= ends[ei] {
+                rooms -= 1
+                ei += 1
             }
-            room += 1
+            rooms += 1
         }
         
-        return room
+        return rooms
     }
 
 }
