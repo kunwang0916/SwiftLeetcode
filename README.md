@@ -134,6 +134,7 @@ The leetcode solutions written in swift.
 |Medium|[#979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Medium979.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium979.swift)|
 |Medium|[#981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)|[Medium981.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium981.swift)|
 |Medium|[#983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Medium983.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium983.swift)|
+|Medium|[#986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Medium986.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium986.swift)|
 |Medium|[#990. Satisfiability of Equality Equations]( https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Medium990.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium990.swift)|
 |Medium|[#991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Medium991.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium991.swift)|
 |Medium|[#998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Medium998.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium998.swift)|
