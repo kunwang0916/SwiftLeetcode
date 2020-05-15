@@ -226,6 +226,8 @@
 		71F9AADE209F8267008E59F6 /* Medium139.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AADD209F8267008E59F6 /* Medium139.swift */; };
 		71F9AAE0209F82A1008E59F6 /* Medium139Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F9AADF209F82A1008E59F6 /* Medium139Test.swift */; };
 		71FD8C4F2291FDC700C16AEE /* Hard76.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71FD8C4E2291FDC700C16AEE /* Hard76.swift */; };
+		71FF09BF246F4924007658DB /* Medium1143.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71FF09BE246F4924007658DB /* Medium1143.swift */; };
+		71FF09C1246F4990007658DB /* Medium1143Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71FF09C0246F4990007658DB /* Medium1143Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -462,6 +464,8 @@
 		71F9AADD209F8267008E59F6 /* Medium139.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium139.swift; sourceTree = "<group>"; };
 		71F9AADF209F82A1008E59F6 /* Medium139Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium139Test.swift; sourceTree = "<group>"; };
 		71FD8C4E2291FDC700C16AEE /* Hard76.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard76.swift; sourceTree = "<group>"; };
+		71FF09BE246F4924007658DB /* Medium1143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1143.swift; sourceTree = "<group>"; };
+		71FF09C0246F4990007658DB /* Medium1143Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium1143Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -552,6 +556,7 @@
 				71225DD82091364800385F5D /* Medium560Test.swift */,
 				71365C8E208FCA4500AD24A0 /* Medium672Test.swift */,
 				71365C7D208F9A8300AD24A0 /* Medium807Test.swift */,
+				71FF09C0246F4990007658DB /* Medium1143Test.swift */,
 				712B03B721FEE1510033EF7F /* EasyTests.swift */,
 				712B039F21EF06B60033EF7F /* MediumTest.swift */,
 				71225DF02097FDD600385F5D /* Hard41Test.swift */,
@@ -711,6 +716,8 @@
 				712B98A3224755C800148F97 /* Medium1021.swift */,
 				712B98A92250678400148F97 /* Medium1020.swift */,
 				717EAAD422B88B9A004A35D3 /* Medium1058.swift */,
+				71FF09BE246F4924007658DB /* Medium1143.swift */,
+				7162FFCF22BF650400DF1FB9 /* AverageWindow.swift */,
 				71C9EF6721D77438006129C9 /* Candies.swift */,
 				71C9EF7F21E93636006129C9 /* Demo.swift */,
 				715F47A5221E566700A962C2 /* Hard10.swift */,
@@ -732,7 +739,6 @@
 				717EAA6222B5BCCB004A35D3 /* Hard829.swift */,
 				712B03A921F4242C0033EF7F /* Hard980.swift */,
 				71B10B1A2213F0FF00A08E48 /* SuperIterator.swift */,
-				7162FFCF22BF650400DF1FB9 /* AverageWindow.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -991,6 +997,7 @@
 				71A301B12212B33300CFB988 /* Medium991.swift in Sources */,
 				712B03D4220439DE0033EF7F /* Easy88.swift in Sources */,
 				71C9EF4C21D4A399006129C9 /* Medium951.swift in Sources */,
+				71FF09BF246F4924007658DB /* Medium1143.swift in Sources */,
 				71C9EF5821D6011A006129C9 /* Easy62.swift in Sources */,
 				712B03C22200395D0033EF7F /* Hard301.swift in Sources */,
 				71F9AACC209D7B80008E59F6 /* Medium19.swift in Sources */,
@@ -1063,6 +1070,7 @@
 				71F9AAE0209F82A1008E59F6 /* Medium139Test.swift in Sources */,
 				71F9AACE209D7BF4008E59F6 /* Medium19Test.swift in Sources */,
 				71225DF12097FDD600385F5D /* Hard41Test.swift in Sources */,
+				71FF09C1246F4990007658DB /* Medium1143Test.swift in Sources */,
 				71C9EF5A21D60328006129C9 /* Easy62Test.swift in Sources */,
 				71225DE52091A2B000385F5D /* Medium240Test.swift in Sources */,
 				71F9AADC209EC2A5008E59F6 /* Medium34Test.swift in Sources */,
