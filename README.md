@@ -123,6 +123,7 @@ The leetcode solutions written in swift.
 |Medium|[#654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Medium654.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium654.swift)|
 |Medium|[#672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)|[Medium672.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium672.swift)|
 |Medium|[#695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Medium695.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium695.swift)|
+|Medium|[#718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Medium718.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium718.swift)|
 |Medium|[#755. Pour Water](https://leetcode.com/problems/pour-water/)|[Medium755.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium755.swift)|
 |Medium|[#787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Medium787.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium787.swift)|
 |Medium|[#807. Max Increase to Keep City Skylinee](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|[Medium807.swift](Project/SwiftLeetcode/SwiftLeetcode/Solutions/Medium807.swift)|
