@@ -24,4 +24,15 @@ class lcofTests: XCTestCase {
         XCTAssertFalse(s.findNumberIn2DArray(m, 20))
         XCTAssertFalse(s.findNumberIn2DArray(m, 25))
     }
+    
+    func test05() {
+        let s = S05()
+        XCTAssertEqual("We%20are%20happy.", s.replaceSpace("We are happy."))
+    }
+    
+    func test06() {
+        let s = S06()
+        let listNode = ListNode.withArray([1, 2, 3])
+        XCTAssertEqual([3, 2, 1], s.reversePrint(listNode))
+    }
 }
