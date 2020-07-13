@@ -101,4 +101,18 @@ class DemoTest: XCTestCase {
             }
         }
     }
+    
+    func testValidParentheses() {
+        let t = ValidParentheses()
+        
+        XCTAssertEqual("", t.valid("(("))
+        XCTAssertEqual("", t.valid("))"))
+        XCTAssertEqual("()", t.valid("())"))
+        XCTAssertEqual("()", t.valid("(()"))
+        XCTAssertEqual("(abc)", t.valid("(abc)"))
+        XCTAssertEqual("(abc)", t.valid("(abc))"))
+        XCTAssertEqual("(abc)", t.valid("((abc)"))
+        XCTAssertEqual("(abc)", t.valid("(((abc)"))
+        XCTAssertEqual("(abc)", t.valid("(abc)))"))
+    }
 }
