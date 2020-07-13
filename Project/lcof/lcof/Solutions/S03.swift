@@ -2,7 +2,6 @@
 //  s03.swift
 //  lcof
 //
-//
 
 import Foundation
 
