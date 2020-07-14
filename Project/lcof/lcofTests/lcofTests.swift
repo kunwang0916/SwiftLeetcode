@@ -48,4 +48,49 @@ class lcofTests: XCTestCase {
         XCTAssertEqual(2, node?.right?.val)
         XCTAssertNil(node?.left)
     }
+    
+    func test09() {
+        let queue = S09()
+        XCTAssertEqual(-1, queue.deleteHead())
+        queue.appendTail(3)
+        queue.appendTail(5)
+        XCTAssertEqual(3, queue.deleteHead())
+        XCTAssertEqual(5, queue.deleteHead())
+        XCTAssertEqual(-1, queue.deleteHead())
+    }
+    
+    func testS10I() {
+        let s = S10I()
+        let testTable = [
+            0: 0,
+            1: 1,
+            2: 1,
+            3: 2,
+            4: 3,
+            5: 5,
+            10: 55,
+        ]
+        
+        for (key, value) in testTable {
+            XCTAssertEqual(value, s.fib(key))
+        }
+    }
+    
+    func testS10II() {
+        let s = S10II()
+        let testTable = [
+            0: 1,
+            1: 1,
+            2: 2,
+            3: 3,
+            4: 5,
+            5: 8,
+            10: 89,
+        ]
+        
+        for (key, value) in testTable {
+            XCTAssertEqual(value, s.numWays(key))
+        }
+    }
+    
 }
