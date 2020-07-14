@@ -35,4 +35,17 @@ class lcofTests: XCTestCase {
         let listNode = ListNode.withArray([1, 2, 3])
         XCTAssertEqual([3, 2, 1], s.reversePrint(listNode))
     }
+    
+    func test07() {
+        let s = S07()
+        var node = s.buildTree([1, 2], [2, 1])
+        XCTAssertEqual(1, node?.val)
+        XCTAssertEqual(2, node?.left?.val)
+        XCTAssertNil(node?.right)
+        
+        node = s.buildTree([1, 2], [1, 2])
+        XCTAssertEqual(1, node?.val)
+        XCTAssertEqual(2, node?.right?.val)
+        XCTAssertNil(node?.left)
+    }
 }

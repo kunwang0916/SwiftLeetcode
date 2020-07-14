@@ -22,6 +22,10 @@
 		71A2EA2E24BC312000884835 /* S06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA2C24BC312000884835 /* S06.swift */; };
 		71A2EA3124BC31A200884835 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA3024BC31A200884835 /* ListNode.swift */; };
 		71A2EA3224BC31A200884835 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA3024BC31A200884835 /* ListNode.swift */; };
+		71A2EA3424BD73AE00884835 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA3324BD73AE00884835 /* TreeNode.swift */; };
+		71A2EA3524BD73AE00884835 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA3324BD73AE00884835 /* TreeNode.swift */; };
+		71A2EA3724BD786A00884835 /* S07.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA3624BD786A00884835 /* S07.swift */; };
+		71A2EA3824BD786A00884835 /* S07.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA3624BD786A00884835 /* S07.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +54,8 @@
 		71A2EA2924BC2F0300884835 /* S05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S05.swift; sourceTree = "<group>"; };
 		71A2EA2C24BC312000884835 /* S06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S06.swift; sourceTree = "<group>"; };
 		71A2EA3024BC31A200884835 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
+		71A2EA3324BD73AE00884835 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		71A2EA3624BD786A00884835 /* S07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S07.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +125,7 @@
 				71A2EA2624BC2BB400884835 /* S04.swift */,
 				71A2EA2924BC2F0300884835 /* S05.swift */,
 				71A2EA2C24BC312000884835 /* S06.swift */,
+				71A2EA3624BD786A00884835 /* S07.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -127,6 +134,7 @@
 			isa = PBXGroup;
 			children = (
 				71A2EA3024BC31A200884835 /* ListNode.swift */,
+				71A2EA3324BD73AE00884835 /* TreeNode.swift */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -234,9 +242,11 @@
 				71A2EA3124BC31A200884835 /* ListNode.swift in Sources */,
 				71A2EA2D24BC312000884835 /* S06.swift in Sources */,
 				71A2EA0724BC220400884835 /* ViewController.swift in Sources */,
+				71A2EA3724BD786A00884835 /* S07.swift in Sources */,
 				71A2EA2A24BC2F0300884835 /* S05.swift in Sources */,
 				71A2EA0524BC220400884835 /* AppDelegate.swift in Sources */,
 				71A2EA2724BC2BB400884835 /* S04.swift in Sources */,
+				71A2EA3424BD73AE00884835 /* TreeNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,11 +254,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71A2EA3524BD73AE00884835 /* TreeNode.swift in Sources */,
 				71A2EA2B24BC2F0300884835 /* S05.swift in Sources */,
 				71A2EA2524BC271700884835 /* S03.swift in Sources */,
 				71A2EA2E24BC312000884835 /* S06.swift in Sources */,
 				71A2EA2824BC2C4600884835 /* S04.swift in Sources */,
 				71A2EA3224BC31A200884835 /* ListNode.swift in Sources */,
+				71A2EA3824BD786A00884835 /* S07.swift in Sources */,
 				71A2EA1824BC220500884835 /* lcofTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
