@@ -93,4 +93,16 @@ class lcofTests: XCTestCase {
         }
     }
     
+    func testS11() {
+        let s = S11()
+        XCTAssertEqual(1, s.minArray([3, 4, 5, 1, 2]))
+        XCTAssertEqual(0, s.minArray([2, 2, 2, 0, 1]))
+    }
+    
+    func testS12() {
+        let s = S12()
+        XCTAssertTrue(s.exist([["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], "ABCCED"))
+        XCTAssertTrue(s.exist([["A"]], "A"))
+        XCTAssertFalse(s.exist([["a","b"],["c","d"]], "abcd"))
+    }
 }
