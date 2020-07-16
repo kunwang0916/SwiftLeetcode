@@ -36,6 +36,8 @@
 		71A2EA4424BE63D400884835 /* S11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA4224BE63D400884835 /* S11.swift */; };
 		71A2EA4624BE76B600884835 /* S12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA4524BE76B600884835 /* S12.swift */; };
 		71A2EA4724BE76B600884835 /* S12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA4524BE76B600884835 /* S12.swift */; };
+		71A2EA4924BEEC9500884835 /* S13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA4824BEEC9500884835 /* S13.swift */; };
+		71A2EA4A24BEEC9500884835 /* S13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A2EA4824BEEC9500884835 /* S13.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +73,7 @@
 		71A2EA3F24BD917800884835 /* S10II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S10II.swift; sourceTree = "<group>"; };
 		71A2EA4224BE63D400884835 /* S11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S11.swift; sourceTree = "<group>"; };
 		71A2EA4524BE76B600884835 /* S12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S12.swift; sourceTree = "<group>"; };
+		71A2EA4824BEEC9500884835 /* S13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S13.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +149,7 @@
 				71A2EA3F24BD917800884835 /* S10II.swift */,
 				71A2EA4224BE63D400884835 /* S11.swift */,
 				71A2EA4524BE76B600884835 /* S12.swift */,
+				71A2EA4824BEEC9500884835 /* S13.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -265,6 +269,7 @@
 				71A2EA3724BD786A00884835 /* S07.swift in Sources */,
 				71A2EA2A24BC2F0300884835 /* S05.swift in Sources */,
 				71A2EA4324BE63D400884835 /* S11.swift in Sources */,
+				71A2EA4924BEEC9500884835 /* S13.swift in Sources */,
 				71A2EA0524BC220400884835 /* AppDelegate.swift in Sources */,
 				71A2EA4624BE76B600884835 /* S12.swift in Sources */,
 				71A2EA3A24BD8D7400884835 /* S09.swift in Sources */,
@@ -292,6 +297,7 @@
 				71A2EA3224BC31A200884835 /* ListNode.swift in Sources */,
 				71A2EA3824BD786A00884835 /* S07.swift in Sources */,
 				71A2EA1824BC220500884835 /* lcofTests.swift in Sources */,
+				71A2EA4A24BEEC9500884835 /* S13.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

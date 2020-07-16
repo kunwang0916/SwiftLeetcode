@@ -105,4 +105,11 @@ class lcofTests: XCTestCase {
         XCTAssertTrue(s.exist([["A"]], "A"))
         XCTAssertFalse(s.exist([["a","b"],["c","d"]], "abcd"))
     }
+    
+    func testS13() {
+        let s = S13()
+        XCTAssertEqual(3, s.movingCount(2, 3, 1))
+        XCTAssertEqual(1, s.movingCount(3, 1, 0))
+        XCTAssertEqual(15, s.movingCount(16, 8, 4))
+    }
 }
