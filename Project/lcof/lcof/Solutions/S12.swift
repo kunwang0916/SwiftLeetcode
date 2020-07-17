@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S12 {
     func exist(_ board: [[Character]], _ word: String) -> Bool {
         let h = board.count

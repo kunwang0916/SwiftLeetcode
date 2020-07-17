@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S10I {
     func fib(_ n: Int) -> Int {
         if n < 2 {

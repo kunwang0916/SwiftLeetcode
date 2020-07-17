@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S07 {
     func buildTree(_ preorder: [Int], _ inorder: [Int]) -> TreeNode? {
         if preorder.count == 0 {

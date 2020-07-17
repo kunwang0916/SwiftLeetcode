@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S13 {
     private var sumMap = [Int: Int]()
     

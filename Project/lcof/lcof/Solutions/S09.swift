@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S09 {
     var stack1 = [Int]()
     var stack2 = [Int]()

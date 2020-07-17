@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S04 {
     func findNumberIn2DArray(_ matrix: [[Int]], _ target: Int) -> Bool {
         var r = matrix.count - 1

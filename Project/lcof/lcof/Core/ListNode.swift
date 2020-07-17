@@ -27,3 +27,21 @@ public class ListNode {
         return n
     }
 }
+
+extension ListNode: Equatable {
+    public static func == (lhs: ListNode, rhs: ListNode) -> Bool {
+        guard lhs.val == rhs.val else {
+            return false
+        }
+        
+        if lhs.next == nil && rhs.next == nil {
+            return true
+        }
+        
+        guard let l = lhs.next, let r = rhs.next else {
+            return false
+        }
+        
+        return l == r
+    }
+}

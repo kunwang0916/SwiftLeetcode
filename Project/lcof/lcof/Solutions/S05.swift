@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S05 {
     func replaceSpace(_ s: String) -> String {
         var result = ""

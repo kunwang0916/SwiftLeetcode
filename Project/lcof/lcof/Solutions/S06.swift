@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S06 {
     func reversePrint(_ head: ListNode?) -> [Int] {
         guard let h = head else {

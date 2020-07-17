@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S11 {
     func minArray(_ numbers: [Int]) -> Int {
         var low = 0

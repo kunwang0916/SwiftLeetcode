@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S03 {
     func findRepeatNumber(_ nums: [Int]) -> Int {
         var visited = Set<Int>()

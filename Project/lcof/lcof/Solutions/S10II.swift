@@ -3,8 +3,6 @@
 //  lcof
 //
 
-import Foundation
-
 class S10II {
     func numWays(_ n: Int) -> Int {
         if n < 2 {

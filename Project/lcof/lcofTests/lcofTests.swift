@@ -112,4 +112,35 @@ class lcofTests: XCTestCase {
         XCTAssertEqual(1, s.movingCount(3, 1, 0))
         XCTAssertEqual(15, s.movingCount(16, 8, 4))
     }
+    
+    func testS14I() {
+        let s = S14I()
+        XCTAssertEqual(1, s.cuttingRope(2))
+        XCTAssertEqual(36, s.cuttingRope(10))
+        XCTAssertEqual(18, s.cuttingRope(8))
+    }
+    
+    func testS15() {
+        let s = S15()
+        XCTAssertEqual(2, s.hammingWeight(9))
+        XCTAssertEqual(2, s.hammingWeight(3))
+        XCTAssertEqual(3, s.hammingWeight(7))
+    }
+    
+    func testS16() {
+        let s = S16()
+        XCTAssertEqual(0.00000, s.myPow(0.00001, 2147483647), accuracy: 0.0001)
+        XCTAssertEqual(1024.00000, s.myPow(2.00000, 10), accuracy: 0.0001)
+        XCTAssertEqual(9.26100000, s.myPow(2.10000, 3), accuracy: 0.0001)
+    }
+    
+    func testS17() {
+        let s = S17()
+        XCTAssertEqual([1, 2, 3, 4, 5, 6, 7, 8, 9], s.printNumbers(1))
+    }
+    
+    func testS18() {
+        let s = S18()
+        XCTAssertEqual(ListNode.withArray([9, 4, 5]), s.deleteNode(ListNode.withArray([9, 4, 1, 5]), 1))
+    }
 }
