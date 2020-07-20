@@ -143,4 +143,14 @@ class lcofTests: XCTestCase {
         let s = S18()
         XCTAssertEqual(ListNode.withArray([9, 4, 5]), s.deleteNode(ListNode.withArray([9, 4, 1, 5]), 1))
     }
+    
+    func testS29() {
+        let s = S29()
+        XCTAssertEqual([1,2,3,6,9,8,7,4,5], s.spiralOrder([[1,2,3],[4,5,6],[7,8,9]]))
+        XCTAssertEqual([1,2,3,4,8,12,11,10,9,5,6,7], s.spiralOrder([[1,2,3,4],[5,6,7,8],[9,10,11,12]]))
+        XCTAssertEqual([], s.spiralOrder([]))
+        XCTAssertEqual([7, 9, 6], s.spiralOrder([[7],[9],[6]]))
+        XCTAssertEqual([1, 2, 4, 3], s.spiralOrder([[1, 2], [3, 4]]))
+    }
 }
+
