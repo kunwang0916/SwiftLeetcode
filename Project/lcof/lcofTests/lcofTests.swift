@@ -152,5 +152,11 @@ class lcofTests: XCTestCase {
         XCTAssertEqual([7, 9, 6], s.spiralOrder([[7],[9],[6]]))
         XCTAssertEqual([1, 2, 4, 3], s.spiralOrder([[1, 2], [3, 4]]))
     }
+    
+    func testS31() {
+        let s = S31()
+        XCTAssertEqual(true, s.validateStackSequences([1, 2, 3, 4, 5], [4, 5, 3, 2, 1]))
+        XCTAssertEqual(false, s.validateStackSequences([1, 2, 3, 4, 5], [4, 3, 5, 1, 2]))
+    }
 }
 
