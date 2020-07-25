@@ -158,5 +158,38 @@ class lcofTests: XCTestCase {
         XCTAssertEqual(true, s.validateStackSequences([1, 2, 3, 4, 5], [4, 5, 3, 2, 1]))
         XCTAssertEqual(false, s.validateStackSequences([1, 2, 3, 4, 5], [4, 3, 5, 1, 2]))
     }
+    
+    func test39() {
+        let s = S39()
+        XCTAssertEqual(7, s.majorityElement([8, 8, 7, 7, 7]))
+        XCTAssertEqual(3, s.majorityElement([3, 2, 3]))
+        XCTAssertEqual(2, s.majorityElement([1, 2, 3, 2, 2, 2, 5, 4, 2]))
+        XCTAssertEqual(1, s.majorityElement([1]))
+    }
+    
+    func test40() {
+        let s = S40()
+        XCTAssertEqual(Set([1, 2]), Set(s.getLeastNumbers([3, 2, 1], 2)))
+        XCTAssertEqual(Set([0]), Set(s.getLeastNumbers([0, 1, 2, 1], 1)))
+    }
+    
+    func test42() {
+        let s = S42()
+        XCTAssertEqual(6, s.maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+        XCTAssertEqual(-1, s.maxSubArray([-1]))
+    }
+    
+    func test47() {
+        let s = S47()
+        XCTAssertEqual(12, s.maxValue([[1,3,1],[1,5,1],[4,2,1]]))
+    }
+    
+    func test48() {
+        let s = S48()
+        XCTAssertEqual(2, s.lengthOfLongestSubstring("abba"))
+        XCTAssertEqual(3, s.lengthOfLongestSubstring("abcabcbb"))
+        XCTAssertEqual(1, s.lengthOfLongestSubstring("bbbbb"))
+        XCTAssertEqual(3, s.lengthOfLongestSubstring("pwwkew"))
+    }
 }
 
