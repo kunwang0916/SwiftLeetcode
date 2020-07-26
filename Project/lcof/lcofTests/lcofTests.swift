@@ -191,5 +191,22 @@ class lcofTests: XCTestCase {
         XCTAssertEqual(1, s.lengthOfLongestSubstring("bbbbb"))
         XCTAssertEqual(3, s.lengthOfLongestSubstring("pwwkew"))
     }
+    
+    func test50() {
+        let s = S50()
+        XCTAssertEqual("l", s.firstUniqChar("leetcode"))
+        XCTAssertEqual("b", s.firstUniqChar("abaccdeff"))
+        XCTAssertEqual("a", s.firstUniqChar("dddccdbba"))
+    }
+    
+    func test53I() {
+        let s = S53I()
+        XCTAssertEqual(2, s.search([5, 7, 7, 8, 8, 10], 8))
+        XCTAssertEqual(0, s.search([5, 7, 7, 8, 8, 10], 6))
+        XCTAssertEqual(2, s.search([5, 7, 7, 8, 8, 10], 7))
+//        XCTAssertEqual("l", s.search([5, 7, 7, 8, 8, 10], 8))
+//        XCTAssertEqual("l", s.search([5, 7, 7, 8, 8, 10], 8))
+        
+    }
 }
 
