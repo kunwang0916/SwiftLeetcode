@@ -12,7 +12,7 @@ class S48 {
         let array = Array(s)
         var indexMap = [Character: Int]()
         var result = 0
-        var i = 0
+        var i = -1
         for j in 0..<array.count {
             let c = array[j]
             if let index = indexMap[c] {
