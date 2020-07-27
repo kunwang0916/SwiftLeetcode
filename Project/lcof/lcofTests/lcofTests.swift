@@ -204,9 +204,11 @@ class lcofTests: XCTestCase {
         XCTAssertEqual(2, s.search([5, 7, 7, 8, 8, 10], 8))
         XCTAssertEqual(0, s.search([5, 7, 7, 8, 8, 10], 6))
         XCTAssertEqual(2, s.search([5, 7, 7, 8, 8, 10], 7))
-//        XCTAssertEqual("l", s.search([5, 7, 7, 8, 8, 10], 8))
-//        XCTAssertEqual("l", s.search([5, 7, 7, 8, 8, 10], 8))
-        
+    }
+    
+    func test57II() {
+        let s = S57II()
+        XCTAssertEqual([[2, 3, 4], [4, 5]], s.findContinuousSequence(9))
     }
 }
 
